@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    >
+
+    <Button
+        android:id="@+id/invite_good_frind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/shape_white_bg"
+        android:textColor="@drawable/invite_alertdialog_btn_bg"
+        android:textSize="20sp"
+        android:text="QQ好友" />
+
+     <Button
+        android:id="@+id/invite_good_frind_circle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/invite_good_frind"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/shape_white_bg"
+        android:textColor="@drawable/invite_alertdialog_btn_bg"
+        android:textSize="20sp"
+        android:text="QQ空间" />
+      <Button
+        android:id="@+id/invite_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/invite_good_frind_circle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/shape_white_bg"
+        android:textColor="@drawable/invite_alertdialog_btn_bg"
+        android:textSize="20sp"
+        android:text="取消" />
+</RelativeLayout>

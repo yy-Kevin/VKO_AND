@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+     >
+
+    <RelativeLayout
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/bd_asr_popup_bg"
+        android:layout_centerInParent="true" >
+
+        <TextView
+            android:id="@+id/tv_speech_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="识别中" 
+            android:textSize="15sp"
+            android:textColor="#ffffff"
+            />
+
+        <TextView
+            android:id="@+id/tv_seacher_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_speech_tips"
+            android:layout_centerInParent="true"
+            android:text="录音中"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</RelativeLayout>

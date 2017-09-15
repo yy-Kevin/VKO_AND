@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true">
+
+    <include
+        android:id="@+id/include1"
+        layout="@layout/layout_view_head" />
+
+    <ImageView
+        android:id="@+id/bind_img_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/include1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/my_invite_bg" />
+
+    <TextView
+        android:id="@+id/bind_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bind_img_icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="@string/bind_tv"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bind_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bind_tv"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:background="@drawable/login_button_selector"
+        android:text="@string/bind_btn" />
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true">
+
+    <include
+        android:id="@+id/include1"
+        layout="@layout/layout_top_err_notepad_details" />
+
+    <!-- <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/include1"
+        android:background="#ccc" /> -->
+     <android.support.v4.view.ViewPager
+        android:id="@+id/err_notepad_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include1"
+        style="@style/common_bar_style"
+        >
+    </android.support.v4.view.ViewPager>
+  <!-- <WebView
+        android:id="@+id/err_notepad_details_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/view1"
+        android:layout_centerHorizontal="true" /> -->
+
+</RelativeLayout>

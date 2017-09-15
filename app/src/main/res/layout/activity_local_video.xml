@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@id/my_content_view"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/local_video_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#23232e"
+        >
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_back_bg"
+            android:clickable="true"
+            android:padding="10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/go_back_header_title" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingTop="10dp"
+            android:singleLine="true"
+            android:text="轻课播放"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/local_video_head"
+        >
+
+        <VideoView
+            android:id="@+id/video_local_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            />
+        <ImageView
+            android:id="@+id/video_local_begin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/empty"
+            android:src="@drawable/nim_video_play_icon_selector"/>
+    </RelativeLayout>
+</RelativeLayout>

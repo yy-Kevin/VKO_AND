@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/bg_main_view"
+    android:orientation="vertical" >
+    
+    <include layout="@layout/layout_view_head"/>
+    
+    <cn.vko.ring.common.widget.xlv.XListView
+        android:id="@+id/xlistview"
+        style="@style/common_bar_style"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/bg_line"
+        android:dividerHeight="0.5dp"
+        android:footerDividersEnabled="true"
+        android:listSelector="@color/transparent"
+        android:overScrollMode="never" />
+  
+</LinearLayout>

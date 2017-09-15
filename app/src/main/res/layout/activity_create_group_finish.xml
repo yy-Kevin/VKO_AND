@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="20dp"
+                android:paddingBottom="10dp"
+                android:src="@drawable/icon_finish" />
+
+            <TextView
+                android:id="@+id/tv_school"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/group_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="2dp"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <android.support.percent.PercentRelativeLayout
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                 >
+
+                <ImageView
+                    android:id="@+id/iv_code"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_margin="5dp"
+                    app:layout_heightPercent="10%"
+                    app:layout_widthPercent="30%"
+                    android:background="@color/white" />
+            </android.support.percent.PercentRelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/layer_record_bg"
+                android:orientation="horizontal"
+                android:padding="10dp" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_group_no"
+                    android:drawablePadding="10dp"
+                    android:text="@string/circle_group_no"
+                    android:textColor="@color/text_black_color"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/tv_group_no"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:textColor="@color/text_gray_color"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/layer_record_bg"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_share_qq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_shape_qq"
+                    android:drawablePadding="10dp"
+                    android:drawableRight="@drawable/my_main_i_enter"
+                    android:padding="10dp"
+                    android:text="@string/shape_to_qq"
+                    android:textColor="@color/text_black_color"
+                    android:textSize="18sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/bg_line" />
+
+                <TextView
+                    android:id="@+id/tv_share_weixue"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/icon_shape_weixue"
+                    android:drawablePadding="10dp"
+                    android:drawableRight="@drawable/my_main_i_enter"
+                    android:padding="10dp"
+                    android:text="@string/shape_to_weixue"
+                    android:textColor="@color/text_black_color"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/but_see"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/login_button_selector"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/circle_see_group"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

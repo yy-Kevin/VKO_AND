@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_bg"
+    android:paddingRight="10dp"
+     >
+
+    <cn.vko.ring.common.widget.RoundAngleImageView
+        android:id="@+id/iv_thumb"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/shape_auto_teach"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/iv_del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:src="@drawable/icon_edit_del" />
+
+</FrameLayout>

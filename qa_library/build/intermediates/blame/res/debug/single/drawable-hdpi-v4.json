@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\studio\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "E:\\studio\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\studio_project\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hello.jpg",
+        "source": "E:\\studio_project\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\hello.jpg"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hello.jpg",
+        "source": "E:\\studio\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\hello.jpg"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hello.jpg",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\hello.jpg"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\studio\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "E:\\studio_project\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\res\\drawable-hdpi\\icon.png"
+    }
+]

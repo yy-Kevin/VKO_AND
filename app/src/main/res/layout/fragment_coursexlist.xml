@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <View
+        android:id="@+id/tv_line"
+        android:layout_width="1dp"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="@dimen/tree_line_margin"
+        android:background="@color/blue_btn_bg_color"
+        android:visibility="gone" >
+    </View>
+
+    <cn.vko.ring.common.widget.AnimatedExpandableListView
+        android:id="@+id/lv_course"
+        style="@style/common_bar_style"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+		android:cacheColorHint="#00000000"
+        android:background="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:listSelector="@drawable/tree_item_selector" />
+    
+	<include
+	    android:id="@+id/layout_empty" 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:visibility="gone"
+	    layout="@layout/layout_empty_view"/>
+</RelativeLayout>

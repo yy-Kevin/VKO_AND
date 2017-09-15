@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">微课圈</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_hint">数据为空\r\n点击刷新</string>
+    <string name="service_error_hint">服务器异常</string>
+    <string name="service_error_token">会话过期，请重新登录</string>
+    <string name="please_bind_phone">需绑定 手机号才可使用</string>
+    <string name="service_json_error_hint">服务器返回数据格式有误</string>
+    <string name="service_unconnect_hint">服务器连接不上</string>
+    <string name="net_wrok_unconnetion_text">网络连接异常</string>
+
+    <string name="preview">预览</string>
+    <string name="button_ok_label">确定</string>
+    <string name="file_not_found">没有找到文件</string>
+    <string name="loading">正在加载...</string>
+    <string name="max_checked">最多可选择</string>
+    <string name="photo">张图片</string>
+
+    <!-- xListView -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在刷新……</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal"></string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_loading">正在加载……</string>
+
+    <!-- home -->
+    <string name="study_text">学习</string>
+    <string name="circle_text">圈子</string>
+    <string name="find_text">发现</string>
+    <string name="message_text">消息</string>
+    <string name="mine_text">我的</string>
+    <string name="class_text">动态</string>
+    <string name="User_name_cannot_be_empty">用户名不能为空！</string>
+    <string name="Password_cannot_be_empty">密码不能为空！</string>
+    <string name="welcome_to_vko">欢迎来到微课圈</string>
+    <string name="tv_home_number">账    号</string>
+    <string name="tv_home_pwd">密    码</string>
+    <string name="tv_home_check">验证码</string>
+
+    <!-- course -->
+    <string name="test_text">更换教材版本，请</string>
+    <string name="course_study">学习</string>
+    <string name="last_play">你上次听到</string>
+    <string name="tv_unit_name">第一单元</string>
+    <string name="tv_section">集合</string>
+    <string name="tv_Proportion">比例</string>
+    <string name="tv_chapter">小节</string>
+    <string name="tv_knowledge_name">运动的描述</string>
+    <string name="tv_time_consuming">耗时</string>
+    <string name="et_seacher">搜索</string>
+    <string name="tv_knowledge_names">同步课程学习</string>
+    <string name="tv_special_name">综合课程</string>
+    <string name="tv_Arts_exam">综合复习测评</string>
+    <string name="tv_question_exam">全国名卷名题</string>
+    <string name="tv_knowledge_point">新课学习好帮手，名校名师微课精讲</string>
+    <string name="tv_special_content">百万精选习题随手测，同步学习闯关晋级</string>
+    <string name="tv_sync_content">综合复习知识点梳理，综合串讲点拨要害</string>
+    <string name="tv_Arts_content">汇编全国名题综合检测，全知识点能力值大扫描</string>
+    <string name="tv_question_content"> 动态更新全国名卷名题，看看学霸们都在做啥！</string>
+    <string name="tv_grade_offered_volumes">七年级数学上册</string>
+    <string name="tv_carry_on">继续</string>
+    <string name="send_course">(%d节课程)发送到班级</string>
+
+    <!-- 问题 -->
+    <string name="text_problem_answer">帮人解答</string>
+    <string name="text_problem_ask">我要提问</string>
+    <string name="text_problem_submit">提交</string>
+    <string name="text_problem_mine">问题记录</string>
+    <string name="hint_problem_ask">你可以在这里补充一点文字</string>
+    <string name="text_i_answer">我要回答</string>
+    <string name="text_same_people"><xliff id="count">%d</xliff>人同问</string>
+    <string name="text_answer_people"><xliff id="count">%d</xliff>人回答</string>
+    <string name="exists_pic_hint">图片不存在</string>
+    <string name="onclick_record_hint">点击录音</string>
+    <string name="onclick_stop_hint">点击停止录音</string>
+    <string name="onclick_stop_play_hint">点击停止播放</string>
+    <string name="onclick_play_hint">点击播放录音</string>
+    <string name="empty_submit_hint">提交内容不能为空</string>
+    <string name="answer_adop_text">采纳</string>
+    <string name="answer_report_text">举报</string>
+    <string name="text_pic_preview">图片预览</string>
+    <string name="text_landscape_camera">请使用横屏拍题,并保持手机平稳</string>
+    <string name="text_search_remake">重拍</string>
+
+    <!-- 举报 -->
+    <string name="report_study_text">与学习无关</string>
+    <string name="report_sexy_text">色情低俗</string>
+    <string name="report_advert_text">广告骚扰</string>
+    <string name="report_politics_text">政治敏感</string>
+    <string name="report_rumor_text">谣言</string>
+    <string name="report_cheat_text">欺诈骗钱</string>
+    <string name="report_supply_hint">补充说明</string>
+    <string name="report_reason_hint">请选择举报原因</string>
+    <string name="report_quote_hint">请举证（选填）</string>
+    <string name="report_content_hint">请输入您要举报的内容</string>
+
+    <!-- 专题 -->
+    <string name="text_course_topic">专题</string>
+    <string name="chapter_text">课程数：  <xliff id="count">%d</xliff>   节 </string>
+    <string name="teacher_text">主要讲师：</string>
+    <string name="cource_intro_text">课程简介：</string>
+    <string name="price_text">￥<xliff id="count">%s</xliff></string>
+    <string name="buy_text">购买</string>
+    <string name="topic_practice_text">练习</string>
+    <string name="topic_download_text">下载</string>
+    <string name="topic_problem_text">提问</string>
+
+    <!-- 个人中心 -->
+    <string name="register_text">注册</string>
+    <string name="login_text">登录</string>
+    <string name="send_text">短信验证码</string>
+    <string name="send_phone_text">语音验证码</string>
+    <string name="i_message">我的消息</string>
+    <string name="i_download_text">我的下载</string>
+    <string name="i_study_learn_sub">学段学科</string>
+    <string name="i_geade_setting">年级设置</string>
+    <string name="i_book_setting">教材设置</string>
+    <string name="i_special_text">我的专题</string>
+    <string name="i_my_order">我的订单</string>
+    <string name="i_task">我的V币</string>
+    <string name="i_income">我的钱包</string>
+    <string name="i_record">搜题记录</string>
+    <string name="i_favorite">我的收藏</string>
+    <string name="learningrecord_text">学习轨迹</string>
+    <string name="notepad_text">错题本</string>
+    <string name="notepad_err_num">共有10到错题</string>
+    <string name="notepad_err_name">高中数学选修四(人教版)</string>
+    <string name="notepad_subject">学科</string>
+    <string name="i_share_text">邀请好友</string>
+    <string name="i_order_class">我的课程</string>
+    <string name="i_order_text">我的订单</string>
+    <string name="i_account_text">我的帐户</string>
+    <string name="feedback_text">意见反馈</string>
+    <string name="i_system_design">系统设置</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="add_vko">加入微课圈</string>
+    <string name="i_name">李天霸</string>
+    <string name="i_city">河北唐山市一中</string>
+    <string name="personal_info">个人信息</string>
+    <string name="setting">个人信息</string>
+    <string name="i_class">高一三班</string>
+    <string name="i_jifen">积分</string>
+    <string name="i_dengji">等级</string>
+    <string name="i_huiyun">会员到期 2015-10-08</string>
+    <string name="i_renew">续费</string>
+    <string name="i_member_renew">会员续费</string>
+    <string name="tv_head">头像</string>
+    <string name="tv_name">姓名</string>
+    <string name="tv_account">帐号</string>
+    <string name="tv_sex">性别</string>
+    <string name="hint_class">您的班级必须在0-1000之间哦</string>
+    <string name="tv_phone">手机号</string>
+    <string name="tv_address">学校地点</string>
+    <string name="tv_schoolname">学校名称</string>
+    <string name="tv_grade">年级</string>
+    <string name="tv_class">班级</string>
+    <string name="tv_password">修改密码</string>
+    <string name="tv_person_msg">个人信息</string>
+    <string name="service_protocol">微课用户服务条款</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+    <string name="app_tip">提示</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+
+    <!-- 我的消息 -->
+    <string name="i_re_message">推荐消息</string>
+    <string name="i_sys_message">系统消息</string>
+    <string name="i_my_message">我的消息</string>
+    <string name="message_detail_text">详情</string>
+
+    <!-- 学科字段 -->
+    <string name="junior_grade_one">初一</string>
+    <string name="junior_grade_two">初二</string>
+    <string name="junior_grade_end">中考</string>
+    <string name="high_grade_one">高一</string>
+    <string name="hige_grade_two">高二</string>
+    <string name="high_grade_end">高考</string>
+    <string name="little_grade_one">小一</string>
+    <string name="little_grade_two">小二</string>
+    <string name="little_grade_three">小三</string>
+    <string name="little_grade_four">小四</string>
+    <string name="little_grade_five">小五</string>
+    <string name="little_grade_six">小六</string>
+    <string name="i_setting_learn">设置学段</string>
+    <string name="i_setting_sub">选择学科</string>
+    <string name="i_select_version">选择版本</string>
+    <string name="i_select_book">选择书本</string>
+    <string name="i_setting_stu_sub">学段学科设置</string>
+    <string name="text_save">保存</string>
+    <!-- 三方登陆 -->
+    <string name="share_str">中学生贴身必备的学习助手，贴身的好老师，懂你的好朋友...</string>
+    <string name="share_content">名师 课程，点此获取价值千元课程。</string>
+    <string name="login_sina_text">新浪微博</string>
+    <string name="login_tencent_text">腾讯QQ</string>
+    <string name="login_weixin_text">微信</string>
+    <string name="_regin_st">&#160;&#160;注册&#160;&#160;</string>
+    <string name="_login_st">&#160;&#160;登录&#160;&#160;</string>
+    <string name="i_selectLogin">你也可以选择第三方登录</string>
+    <string name="login_by_vko_user">微课用户登录</string>
+    <string name="login_by_phone_msg">手机快速登录</string>
+    <string name="login_by_qq_user">QQ用户登录</string>
+    <string name="login_by_weixin_user">微信用户登录</string>
+    <string name="regist_text_new">以上都没有，我要注册！</string>
+
+    <!-- 系统设置 -->
+    <string name="i_setuplook">允许在2G/3G/4G网络下观看</string>
+    <string name="i_setupdownload">允许在2G/3G/4G网络下下载</string>
+    <string name="i_receiver_message">接收消息通知</string>
+    <string name="i_about_vko">关于微课圈</string>
+    <string name="i_clean_cache">清除缓存</string>
+    <string name="i_exit_account">退出账号</string>
+    <string name="i_new_version_hint">发现新版本...</string>
+    <string name="i_cannot_watch">目前是非WIFI网络播放/下载，会产生手机流量，如有需要请去“设置”打开 </string>
+    <string name="_time_info">用时</string>
+
+    <!-- 注册 -->
+    <string name="inputphone">请输入手机号码</string>
+    <string name="verification">注册</string>
+    <string name="inputverification">请输入验证码</string>
+    <string name="seetingpass">请输入密码</string>
+    <string name="select_grade">选择您的学段</string>
+    <string name="select_location">所在城市：</string>
+    <string name="select_school">绑定学校：</string>
+    <string name="edit_seacher_hint">请输入地区  学校简称</string>
+    <string name="next">下一步</string>
+    <string name="save">保存</string>
+    <string name="select_class">完善信息</string>
+    <string name="select_subject">选择学科</string>
+    <string name="my_download">我的下载</string>
+    <string name="registe_down">注册完成</string>
+    <string name="thousands_citsy">《中国千城入驻计划》</string>
+    <string name="registe_get">恭喜您获得三个月畅听权限 </string>
+    <string name="registe_experience">立即体验</string>
+    <string name="registe_argree">点击注册代表你已阅读并同意《微课圈用户协议》</string>
+    <string name="registe_argree1">《微课圈用户协议》</string>
+    <string name="registe_argree_forget">点击下一步代表你已阅读并同意《微课圈用户协议》</string>
+    <string name="registe_argree_new">温馨提示:未注册微课圈账号的手机号,登录时将自动注册,且代表您已同意《微课圈用户协议》</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="reg_error">验证码错误</string>
+    <string name="input_mobile">请输入手机号</string>
+    <string name="mpbile_lost">手机号码不存在</string>
+    <string name="mobile_exsit">该用户已注册</string>
+    <string name="userinfo_reg">用户注册</string>
+
+    <!-- 绑定手机 -->
+    <string name="i_country">国家和地区</string>
+    <string name="i_sure">确定</string>
+    <string name="i_num">+86</string>
+    <string name="i_cancel">取消</string>
+    <string name="i_inputnum">输入验证码</string>
+
+    <!-- 修改密码 -->
+    <string name="i_input_pwd">输入旧密码</string>
+    <string name="i_input_new_pwd">输入新密码</string>
+    <string name="i_inputpwd_again">再次输入</string>
+
+    <!-- 反馈意见 -->
+
+    <string name="i_inputadvice">请输入您的反馈意见：</string>
+    <string name="i_content">您的手机号: 选填，方便我们给你反馈</string>
+    <string name="i_email">您的邮箱：</string>
+    <string name="i_tijiao">提交</string>
+
+    <!-- 关于微课 -->
+    <string name="version">V1.0</string>
+    <string name="check_update">检查更新</string>
+    <string name="about_vko">贴身的好老师，懂你的好朋友。中学生贴身必备的学习助手
+微课圈，汇集精彩课程的学习社区，千万同学老师入驻，名师名课源源不断，班级小圈子互助成长，全国大社区互动分享，让疑难困窘再无遗憾</string>
+
+    <!-- 测试 -->
+    <string name="test_info_1">通过测试可以给角色增加能力值，从而提升排名哦~</string>
+    <string name="test_info_2">能力值分布</string>
+    <string name="test_info_3">点击题号，查看解析</string>
+    <string name="test_info_4">根据错题，推荐以下知识点还需掌握</string>
+    <string name="test_go_again">继续加能</string>
+    <string name="test_add_ablity">继续加能</string>
+    <string name="test_t_add_ablity">测试加能</string>
+    <string name="test_submit">交卷</string>
+    <string name="test_go_pk">发起PK</string>
+    <string name="test_show_grade">晒成绩</string>
+    <string name="test_see_grade">查看成绩</string>
+    <string name="test_go_unit">回到单元</string>
+    <string name="test_pk_other">与别人PK</string>
+    <string name="test_user_name">姓名：</string>
+    <string name="test_user_level">级别：</string>
+    <string name="test_user_ability">能力值：</string>
+    <string name="test_user_ranking">排名：</string>
+    <string name="test_user_prop">道具：</string>
+    <string name="_test_norank">暂无排名</string>
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+    <string name="_comp_test">综合练习</string>
+    <string name="rightrate">正确率</string>
+    <string name="rightratenum">共计获得</string>
+    <string name="_need_strange">需要加强以下知识点：</string>
+    <string name="yes_or_not_info">看了一溜，此题对我来说根本就：</string>
+    <string name="star_info">（答对3-4题得1星，全对得2星）</string>
+    <!-- 邀请好友 -->
+    <string name="tv_invite">添加你的同学一起玩耍吧！</string>
+    <string name="bind_tv">您还没有绑定通讯录，是否绑定？</string>
+    <string name="bind_btn">绑定</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="title_activity_err_notepad_details">ErrNotepadDetailsActivity</string>
+    <string name="title_activity_modify_class">ModifyClassActivity</string>
+
+    <!-- 保利威视 -->
+
+
+    <!-- 播放器 -->
+    <string name="title_activity_record">RecordActivity</string>
+    <string name="tip">提示</string>
+    <string name="dismiss">取消</string>
+    <string name="warning_of_network">没有网络连接</string>
+    <string name="vitamio_name">Vitamio</string>
+    <string name="vitamio_init_decoders">初始化解码器…</string>
+    <string name="videoview_error_title">不能播放视频</string>
+    <string name="videoview_error_text_invalid_progressive_playback">抱歉，这个视频不适合该设备.</string>
+    <string name="videoview_error_text_unknown">抱歉，视频不能播放</string>
+    <string name="videoview_error_button">好的</string>
+    <string name="mediacontroller_play_pause">播放/暂停</string>
+    <string name="title_activity_my_service_protocol">MyServiceProtocolActivity</string>
+
+    <!-- 圈子 -->
+    <string name="circle_recommend_attention_text">推荐关注</string>
+    <string name="circle_selected_text">选好了</string>
+    <string name="circle_create_group">建群</string>
+    <string name="circle_search_group">搜群</string>
+    <string name="exchange_code">会员体验码</string>
+    <string name="circle_scan_group">扫一扫</string>
+    <string name="circle_group_name">群名称</string>
+    <string name="circle_group_intro">简介</string>
+    <string name="circle_next_text">下一步</string>
+    <string name="circle_finish_text">完成</string>
+    <string name="circle_create_group_title">创建兴趣群</string>
+    <string name="circle_group_class_text">选择群分类</string>
+    <string name="search_text">搜索</string>
+    <string name="circle_group_no">群号码</string>
+    <string name="shape_to_qq">分享此群到QQ</string>
+    <string name="shape_to_weixue">分享此群到微信</string>
+    <string name="circle_see_group">查看我的群</string>
+    <string name="circle_group_home">圈主页</string>
+    <string name="circle_group_no_text">群组号：</string>
+    <string name="circle_group_intro_text">群简介：</string>
+    <string name="circle_group_code_text">二维码：</string>
+    <string name="circle_group_member_text">群成员：</string>
+    <string name="circle_group_detail">群详情</string>
+    <string name="circle_submit_topic">创建任务</string>
+    <string name="circle_shape_topic">任务简介</string>
+    <string name="scan_group_text">扫群</string>
+    <string name="scan_active_text">活动</string>
+    <string name="scan_other_text">其他</string>
+    <string name="cancel_text">取消</string>
+    <string name="submit_text">发表</string>
+
+    <!-- 学习搜索 -->
+    <string name="_vko">微课圈</string>
+    <string name="_search_video_exam">搜索视频和试题</string>
+    <string name="_formular">公式速记</string>
+    <string name="_error_down_refresh">您还没收到消息\n下拉刷新一下吧</string>
+    <string name="_error_sub">纠错</string>
+    <string name="_complete">完成</string>
+    <string name="_error_sub_info">请描述一下纠错内容</string>
+    <!-- 客服 -->
+    <string name="title_satifisfaction_eval">满意度评价</string>
+    <string name="tip_wating">请稍等...</string>
+    <string name="nick_service">客服昵称</string>
+    <string name="tip_eval">请对我的服务做出评价</string>
+    <string name="hint_leave_message">留言</string>
+    <string name="tip_btn_sumbit">提交</string>
+    <string name="tip_btn_evaluation">立即评价</string>
+    <string name="tip_request_fail">请求失败</string>
+    <string name="attach_short_cut_message">常见问题</string>
+    <string name="delete">删除</string>
+    <string name="resend">重发</string>
+    <string name="confirm_resend">确认重发该信息？</string>
+    <string name="connect_failuer_toast">请检查网络或稍候重试</string>
+    <string name="network_unavailable">网络连接不可用，请检查网络</string>
+    <string name="copy">复制</string>
+    <string name="forward">转发</string>
+
+    <string name="text_fahuo">什么是V币？怎样获取V币？</string>
+    <string name="text_weight">开通会员、解锁章节、购买精讲视频的区别？</string>
+    <string name="text_color">支付异常后V币为什么没有了？</string>
+    <string name="text_kuaidi">会员过期后下载过的视频还能播放吗？</string>
+
+
+    <string name="select_city">选择城市</string>
+    <string name="hot_city">热门城市</string>
+    <string name="located_city">定位城市</string>
+    <string name="hint_search_box">请输入城市名或拼音</string>
+    <string name="nothing_found">没有搜索结果~</string>
+    <string name="locating">正在定位…</string>
+    <string name="located_failed">定位失败</string>
+
+
+    <!--IM**********************-->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="empty"></string>
+    <string name="main_tab_session">会话</string>
+    <string name="main_tab_contact">通讯录</string>
+    <string name="per_course">单节课程</string>
+    <string name="group_course">课程组</string>
+    <string name="user_profile">个人名片</string>
+    <string name="login">登录</string>
+    <string name="logining">登录中\u2026</string>
+    <string name="register">注册</string>
+    <string name="registering">注册中\u2026</string>
+    <string name="agree">同意</string>
+    <string name="reject">拒绝</string>
+    <string name="network_is_not_available">网络连接失败，请检查你的网络设置</string>
+    <string name="login_hint_account">请输入帐号</string>
+    <string name="login_hint_password">请输入密码</string>
+    <string name="input_account">请输入帐号，限20位字母或者数字</string>
+    <string name="register_account_tip">帐号限20位字母或者数字</string>
+    <string name="input_nickname">请输入昵称，限10位汉字、字母或者数字</string>
+    <string name="register_nick_name_tip">昵称限10位汉字、字母或者数字</string>
+    <string name="input_password">请输入密码，6~20位字母或者数字</string>
+    <string name="register_password_tip">密码必须为6~20位字母或者数字</string>
+    <string name="register_success">注册成功</string>
+    <string name="register_failed">注册失败,错误码%1$s:%2$s</string>
+    <string name="login_has_account">已有帐号？直接登录</string>
+    <string name="done">完成</string>
+    <string name="latest_message_draft_prefix">[草稿] </string>
+    <string name="main_msg_unread_msg_count">[%d条]</string>
+    <string name="out_time">超时</string>
+    <string name="prepare_data">正在准备数据...</string>
+
+
+    <string name="text_course">课程</string>
+    <string name="text_lupin">轻课白板</string>
+    <string name="text_task">创建任务</string>
+    <string name="text_test">测试</string>
+
+
+    <string name="readed">已读</string>
+
+    <string name="about">关于</string>
+    <string name="logout">注销</string>
+
+    <string name="account">帐号:</string>
+    <string name="chat">聊天</string>
+    <string name="add">添加</string>
+    <string name="remove">移除</string>
+    <string name="network_forbidden_login">你被服务器禁止登录，详询客服</string>
+    <string name="menu">菜单</string>
+    <string name="verify_reminder">验证提醒</string>
+    <string name="without_content">暂无</string>
+    <string name="create">新建</string>
+    <string name="delete_tip">删除提示</string>
+    <string name="delete_system_message">删除该条系统消息？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="clear_all_success">清空成功</string>
+    <string name="login_failed">帐号或密码错误</string>
+    <string name="kick_out">帐号在其它设备登录</string>
+    <string name="edittext_length_tips">你输入的字数已经超过了限制！</string>
+    <string name="file_transfer">文件云存储</string>
+    <string name="file_browser">文件浏览器</string>
+    <string name="upload_text">上传</string>
+    <string name="download_text">下载</string>
+    <string name="now_allow_space">不能含有空格</string>
+    <string name="how_to_get_account">如何获取帐号</string>
+    <string name="multi_client_management">多端登录管理</string>
+    <string name="kick_other_client_prompt">踢掉 %1$s</string>
+    <string name="open">开启</string>
+    <string name="close">关闭</string>
+    <string name="search_advanced_team">搜索高级群</string>
+    <string name="net_broken">当前网络不可用</string>
+    <string name="nim_status_unlogin">未登录</string>
+    <string name="copyright">Copyright ©1997-2016 网易公司版权所有</string>
+    <string name="edit_nick">修改昵称</string>
+    <string name="user_not_exsit">该用户不存在</string>
+    <string name="user_tips">请检查你输入的帐号是否正确</string>
+    <string name="edit">编辑</string>
+
+    <!-- session -->
+    <string name="input_panel_guess">猜 拳</string>
+    <string name="input_panel_audio_call">语音通话</string>
+    <string name="input_panel_video_call">视频通话</string>
+    <string name="input_panel_file">发送文件</string>
+    <string name="input_panel_RTS">白 板</string>
+    <string name="input_panel_snapchat">阅后即焚</string>
+    <string name="input_panel_tip">Tip</string>
+    <string name="message_history_query">云消息记录</string>
+    <string name="message_search_title">搜索本地消息记录</string>
+    <string name="message_clear">清空本地消息记录</string>
+    <string name="message_info">聊天信息</string>
+    <string name="message_task_list">任务列表</string>
+    <string name="message_group_member">群成员</string>
+
+
+    <!-- 通讯录 -->
+    <string name="add_friend">加为好友</string>
+    <string name="remove_friend">删除好友</string>
+    <string name="begin_chat">聊天</string>
+    <string name="remove_friend_tip">删除好友后，将同时解除双方的好友关系</string>
+    <string name="remove_friend_success">删除好友成功</string>
+    <string name="add_friend_self_tip">不能添加自己为好友</string>
+    <string name="add_friend_verify_tip">好友验证请求</string>
+    <string name="black_list_tip">你不会接收到列表中联系人的任何消息</string>
+
+    <!-- 群 -->
+    <string name="create_team_activity">创建群聊</string>
+    <string name="add_buddy">添加好友</string>
+    <string name="create_normal_team">创建讨论组</string>
+    <string name="team_apply_sending">发送中…</string>
+    <string name="no_team">您还没有群</string>
+    <string name="no_normal_team">您还没有讨论组</string>
+    <string name="team_search_hint">请输入群号进行搜索</string>
+    <string name="team_number_not_exist">群号不存在</string>
+    <string name="team_join">加入群组</string>
+    <string name="team_join_success">成功加入群: %1$s</string>
+    <string name="team_apply_to_join_send_success">申请已发出</string>
+    <string name="has_exist_in_team">已经在群里</string>
+
+    <!-- 消息提醒 -->
+    <string name="toolbar_mutli_new_msg_tips">个联系人发来新消息</string>
+    <string name="toolbar_new_msg_coming_ticker_text"> 有新消息</string>
+    <string name="toolbar_new_msg_general_tips">你收到一条新消息</string>
+    <string name="toolbar_add_buddy_request_tips">请求添加你为好友</string>
+    <string name="toolbar_add_buddy_verify_tips">通过了你的好友请求</string>
+    <string name="toolbar_new_notification_general_tips">你收到一条新通知</string>
+
+    <!-- 自定义通知 -->
+    <string name="custom_notification">自定义通知</string>
+    <string name="select_custom_notification_target">选择发送对象</string>
+    <string name="send_custom_notification_tip">请输入要发送的内容</string>
+    <string name="send_custom_notification_success">自定义通知发送成功</string>
+    <string name="send_custom_notification_failed">自定义通知发送失败</string>
+    <string name="send_custom_notification_to_buddy">发送给好友</string>
+    <string name="send_custom_notification_to_team">发送给群组</string>
+
+    <!-- 消息类型 -->
+    <string name="msg_type_image">图片</string>
+    <string name="msg_type_audio">语音</string>
+    <string name="title_activity_add_buddy">添加好友</string>
+
+    <!-- location -->
+    <string name="location_init_map_error">初始化地图服务失败</string>
+    <string name="location_navigate">导航</string>
+    <string name="self_location">我在这个位置</string>
+    <string name="location_unable_to_get_you">暂时无法获取您的位置</string>
+    <string name="location_loading">正在定位</string>
+    <string name="location_map">地图定位</string>
+    <string name="my_location">我的位置</string>
+    <string name="location_address_unkown">该位置信息暂无</string>
+    <string name="format_mylocation">我的位置：%s</string>
+    <string name="location_address_fail">获取位置信息失败</string>
+    <string name="tools_selected">选择工具</string>
+    <string name="friends_map_navigation_web">在网页中打开</string>
+    <string name="location_open_map_error">打开地图出错</string>
+
+    <!-- about -->
+    <string name="about_custom_button1">自定义1</string>
+    <string name="about_clear_msg_history">清空所有聊天记录</string>
+    <string name="clear_msg_history_success">聊天记录已清空</string>
+
+    <!-- 云信SDK所需文案 -->
+    <string name="nim_status_bar_multi_messages_incoming">%1$d位联系人有新消息</string>
+    <string name="nim_status_bar_ticker_text">%1$s有新消息</string>
+    <string name="nim_status_bar_image_message">%1$s发来一条图片消息</string>
+    <string name="nim_status_bar_audio_message">%1$s发来一条语音消息</string>
+    <string name="nim_status_bar_video_message">%1$s发来一条视频消息</string>
+    <string name="nim_status_bar_file_message">%1$s发来一条文件消息</string>
+    <string name="nim_status_bar_location_message">%1$s分享了一个地理位置</string>
+    <string name="nim_status_bar_notification_message">%1$s: 通知消息</string>
+    <string name="nim_status_bar_custom_message">%1$s: 自定义消息</string>
+    <string name="nim_status_bar_unsupported_message">%1$s: 无法显示该内容</string>
+    <string name="nim_status_bar_hidden_msg_content">你收到一条新消息</string>
+
+    <!--RTS白板-->
+    <string name="doodle">白板</string>
+    <string name="start_session">正在邀请对方，请稍后</string>
+    <string name="callee_reject">对方拒绝了本次请求</string>
+    <string name="callee_ack_timeout">对方未接受请求</string>
+    <string name="receive_session">对方发起白板演示</string>
+    <string name="start_session_record">我发起了白板演示</string>
+    <string name="session_end_record">白板演示已结束</string>
+    <string name="end_session_tip_head">退出白板演示</string>
+    <string name="end_session_tip_content">退出后，你将不再接收白板演示的消息内容</string>
+    <string name="target_has_leave_session">对方已离开</string>
+    <string name="target_has_end_session">对方结束白板演示</string>
+    <string name="accept_session">接受</string>
+    <string name="reject_session">拒绝</string>
+    <string name="doodle_back">上一步</string>
+    <string name="doodle_clear">清屏</string>
+
+    <!-- setting -->
+    <string name="settings">设置</string>
+    <string name="no_disturb">免打扰</string>
+    <string name="msg_notice">消息提醒</string>
+    <string name="setting_about">关于</string>
+    <string name="setting_close">已关闭</string>
+    <string name="no_disturb_tips">在设定的时间段内云信消息将不再提醒</string>
+    <string name="time_from">从</string>
+    <string name="time_to">至</string>
+    <string name="time_from_default">22:00</string>
+    <string name="time_to_default">08:00</string>
+    <string name="black_list">黑名单</string>
+    <string name="msg_speaker">听筒模式</string>
+
+    <!-- 多端登录 -->
+    <string name="multiport_manager">多端登录管理</string>
+    <string name="multiport_logout">下线</string>
+    <string name="computer_version">云信电脑版</string>
+    <string name="web_version">云信网页版</string>
+    <string name="mobile_version">云信移动版</string>
+    <string name="multiport_logging">正在使用</string>
+    <string name="kickout_notify">下线通知</string>
+    <string name="kickout_content">你的帐号被%1$s踢出下线，请确定帐号信息安全</string>
+
+    <!-- 阅后即焚 -->
+    <string name="snapchat_longclick_to_view">按住查看</string>
+    <string name="snapchat_title">阅后即焚</string>
+
+    <!-- 个人名片 -->
+    <string name="birthday">生 日</string>
+    <string name="phone">手 机</string>
+    <string name="email">邮 箱</string>
+    <string name="signature">签 名</string>
+    <string name="head">头 像</string>
+    <string name="user_information">个人信息</string>
+    <string name="nickname">昵 称</string>
+    <string name="alias">备注名</string>
+    <string name="gender">性 别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="other">其他</string>
+    <string name="phone_number">手机号码</string>
+    <string name="set_head_image">设置头像</string>
+    <string name="user_info_update_success">设置成功</string>
+    <string name="user_info_update_cancel">取消更新</string>
+    <string name="user_info_update_failed">设置失败，请重试</string>
+    <string name="head_update_success">头像设置成功</string>
+    <string name="head_update_failed">头像设置失败，请重试</string>
+    <string name="nickname_empty">昵称不能为空</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--录屏-->
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="opacity">Opacity</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+    <string name="start_record">开始录屏</string>
+    <string name="stop_record">停止录屏</string>
+
+</resources>

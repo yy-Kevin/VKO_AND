@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/head_lay"
+        layout="@layout/layout_select_book_head" />
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        
+        <cn.vko.ring.common.widget.xlv.XListView
+            android:id="@+id/lv_courseVideo"
+            style="@style/common_bar_style"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000"
+            android:layout_below="@+id/head_lay"           
+            android:divider="@drawable/transparent"
+            android:dividerHeight="18dp"
+            android:listSelector="#00000000" >
+        </cn.vko.ring.common.widget.xlv.XListView>
+
+        <View
+            android:id="@+id/book_select_bg"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/alphabg"
+            android:visibility="invisible" />
+
+        <LinearLayout
+            android:id="@+id/book_and_version_container"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="28dp"
+            android:visibility="invisible" >
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

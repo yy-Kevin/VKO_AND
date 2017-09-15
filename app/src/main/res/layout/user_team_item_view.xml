@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:gravity="center"
+            android:padding="10dp"
+              android:background="@color/white"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/user_icon"
+        android:layout_margin="5dp"
+        android:layout_width="48dp"
+        android:src="@drawable/im_my_class_group"
+        android:layout_height="48dp"/>
+    <TextView
+        android:id="@+id/team_name"
+        android:textColor="@color/common_dark_text_color"
+        android:textSize="@dimen/text_size_16"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:text=""
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

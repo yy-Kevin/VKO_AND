@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:background="@color/white" >
+
+    <cn.vko.ring.common.widget.NoScrollViewPager
+        android:id="@+id/vp_main"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+         />
+
+    <cn.vko.ring.home.widget.TabMenuView
+        android:id="@+id/bottom_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layer_bg_footer"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+    </cn.vko.ring.home.widget.TabMenuView>
+
+</LinearLayout>

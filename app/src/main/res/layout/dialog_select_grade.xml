@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical" >
+    
+    <ImageView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/title_dialog"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="童鞋,请选择年级"
+        android:textSize="20sp" 
+        android:background="@color/white"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="30dp">
+
+        <RadioButton
+            android:id="@+id/tv_lowhone"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_one"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_lowhtwo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_two"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_lowhthree"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_three"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="30dp">
+
+        <RadioButton
+            android:id="@+id/tv_lowfour"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_four"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_lowfive"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_five"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_lowsix"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/little_grade_six"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp">
+
+        <RadioButton
+            android:id="@+id/tv_juniorone"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/junior_grade_one"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_juniortwo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/junior_grade_two"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/tv_juniorthree"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/grade_btn_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="@string/junior_grade_end"
+            android:textColor="@color/selector_subtext_bg"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="30dp">
+
+    <RadioButton
+        android:id="@+id/tv_highone"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/grade_btn_selector"
+        android:button="@null"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="@string/high_grade_one"
+        android:textColor="@color/selector_subtext_bg"
+        android:textSize="16sp" />
+
+    <RadioButton
+        android:id="@+id/tv_hightwo"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/grade_btn_selector"
+        android:button="@null"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="@string/hige_grade_two"
+        android:textColor="@color/selector_subtext_bg"
+        android:textSize="16sp" />
+
+    <RadioButton
+        android:id="@+id/tv_highthree"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/grade_btn_selector"
+        android:button="@null"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="@string/high_grade_end"
+        android:textColor="@color/selector_subtext_bg"
+        android:textSize="16sp" />
+</LinearLayout>
+
+
+
+</LinearLayout>

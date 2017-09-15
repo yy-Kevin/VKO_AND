@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:background="@color/bg_main_view"
+              android:paddingRight="15dp"
+              android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/head_iv"
+        android:layout_width="50dp"
+        android:src="@drawable/default_personal_head"
+        android:layout_margin="@dimen/dimen15"
+        android:layout_height="50dp"/>
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/leader_name"
+            android:textColor="@color/gray7"
+            android:text="李永强"
+            android:layout_marginBottom="8dp"
+            android:textSize="@dimen/text_size_16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </TextView>
+        <include layout="@layout/chat_course"></include>
+    </LinearLayout>
+
+</LinearLayout>

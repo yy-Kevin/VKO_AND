@@ -1,0 +1,101 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 65552 bytes for Chunk::new
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (allocation.cpp:328), pid=7532, tid=8792
+#
+# JRE version: 7.0_11-b21
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (23.6-b04 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000001c26b800):  JavaThread "C2 CompilerThread1" daemon [_thread_in_native, id=8792, stack(0x000000001db30000,0x000000001dc30000)]
+
+Stack: [0x000000001db30000,0x000000001dc30000]
+
+Current CompileTask:
+C2:   2038  185             com.android.dx.ssa.SCCP::run (298 bytes)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x000000001dee5000 JavaThread "pool-2-thread-4" [_thread_in_Java, id=8884, stack(0x000000001e860000,0x000000001e960000)]
+  0x000000001dee4000 JavaThread "pool-2-thread-3" [_thread_in_vm, id=360, stack(0x000000001e640000,0x000000001e740000)]
+  0x000000001dee3800 JavaThread "pool-2-thread-2" [_thread_in_vm, id=7816, stack(0x000000001e470000,0x000000001e570000)]
+  0x000000001ddfb000 JavaThread "pool-3-thread-1" [_thread_blocked, id=5844, stack(0x000000001d0c0000,0x000000001d1c0000)]
+  0x000000001df2b800 JavaThread "pool-2-thread-1" [_thread_in_Java, id=8420, stack(0x000000001e200000,0x000000001e300000)]
+  0x000000001c26c800 JavaThread "Service Thread" daemon [_thread_blocked, id=9084, stack(0x000000001dc30000,0x000000001dd30000)]
+=>0x000000001c26b800 JavaThread "C2 CompilerThread1" daemon [_thread_in_native, id=8792, stack(0x000000001db30000,0x000000001dc30000)]
+  0x000000001c25e800 JavaThread "C2 CompilerThread0" daemon [_thread_in_native, id=5200, stack(0x000000001d900000,0x000000001da00000)]
+  0x000000001c25d800 JavaThread "Attach Listener" daemon [_thread_blocked, id=6380, stack(0x000000001d710000,0x000000001d810000)]
+  0x000000001c256800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=6824, stack(0x000000001d500000,0x000000001d600000)]
+  0x000000000262a800 JavaThread "Finalizer" daemon [_thread_blocked, id=3640, stack(0x000000001d3f0000,0x000000001d4f0000)]
+  0x0000000002624000 JavaThread "Reference Handler" daemon [_thread_blocked, id=8524, stack(0x000000001d200000,0x000000001d300000)]
+  0x000000000272c800 JavaThread "main" [_thread_in_Java, id=4160, stack(0x0000000002a90000,0x0000000002b90000)]
+
+Other Threads:
+  0x000000001c1b1800 VMThread [stack: 0x000000001cfc0000,0x000000001d0c0000] [id=4600]
+  0x000000001c27d000 WatcherThread [stack: 0x000000001da10000,0x000000001db10000] [id=8784]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ PSYoungGen      total 37760K, used 30530K [0x0000000755560000, 0x0000000757f80000, 0x0000000800000000)
+  eden space 32384K, 94% used [0x0000000755560000,0x0000000757330888,0x0000000757500000)
+  from space 5376K, 0% used [0x0000000757a40000,0x0000000757a40000,0x0000000757f80000)
+  to   space 5376K, 0% used [0x0000000757500000,0x0000000757500000,0x0000000757a40000)
+ ParOldGen       total 86272K, used 0K [0x0000000600000000, 0x0000000605440000, 0x0000000755560000)
+  object space 86272K, 0% used [0x0000000600000000,0x0000000600000000,0x0000000605440000)
+ PSPermGen       total 21248K, used 5879K [0x00000005fae00000, 0x00000005fc2c0000, 0x0000000600000000)
+  object space 21248K, 27% used [0x00000005fae00000,0x00000005fb3bdd78,0x00000005fc2c0000)
+
+Card table byte_map: [0x0000000005b90000,0x0000000006bc0000] byte_map_base: 0x0000000002bb9000
+
+Polling page: 0x0000000000130000
+
+Code Cache  [0x0000000002b90000, 0x0000000002e00000, 0x0000000005b90000)
+ total_blobs=426 nmethods=189 adapters=188 free_code_cache=48367Kb largest_free_block=49486144
+
+Compilation events (10 events):
+Event: 1.613 Thread 0x000000001c26b800 nmethod 184 0x0000000002c39a90 code [0x0000000002c39bc0, 0x0000000002c39c18]
+Event: 1.613 Thread 0x000000001c26b800  185             com.android.dx.ssa.SCCP::run (298 bytes)
+Event: 1.958 Thread 0x000000001c25e800 nmethod 136 0x0000000002c59010 code [0x0000000002c59320, 0x0000000002c5b860]
+Event: 1.958 Thread 0x000000001c25e800  186             com.android.dx.dex.code.DalvInsn::<init> (67 bytes)
+Event: 1.959 Thread 0x000000001c25e800 nmethod 186 0x0000000002c393d0 code [0x0000000002c39500, 0x0000000002c395f8]
+Event: 1.959 Thread 0x000000001c25e800  187             com.android.dx.rop.cst.CstString::compareTo0 (15 bytes)
+Event: 1.959 Thread 0x000000001c25e800 nmethod 187 0x0000000002c4cfd0 code [0x0000000002c4d120, 0x0000000002c4d2b8]
+Event: 1.959 Thread 0x000000001c25e800  188             com.android.dx.rop.code.RegisterSpecSet::size (49 bytes)
+Event: 1.962 Thread 0x000000001c25e800 nmethod 188 0x0000000002c4cc90 code [0x0000000002c4cdc0, 0x0000000002c4cf18]
+Event: 1.962 Thread 0x000000001c25e800  189             com.android.dx.ssa.SCCP::simulateBranch (666 bytes)
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (6 events):
+Event: 0.718 Thread 0x000000000272c800 Uncommon trap -12 fr.pc 0x0000000002c0b92c
+Event: 0.722 Thread 0x000000001dee4000 Uncommon trap -12 fr.pc 0x0000000002c0b92c
+Event: 0.772 Thread 0x000000001df2b800 Uncommon trap -34 fr.pc 0x0000000002c14134
+Event: 0.792 Thread 0x000000000272c800 Uncommon trap -12 fr.pc 0x0000000002c14398
+Event: 0.999 Thread 0x000000001df2b800 Uncommon trap -83 fr.pc 0x0000000002c1a598
+Event: 1.411 Thread 0x000000001df2b800 Uncommon trap -83 fr.pc 0x0000000002c464f8
+
+Internal exceptions (10 events):
+Event: 0.549 

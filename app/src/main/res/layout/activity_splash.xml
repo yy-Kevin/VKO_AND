@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ImageView 
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splash"/>
+    
+    <!-- <Button 
+        android:id="@+id/btn_regist"
+        android:layout_marginTop="170dp"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+         android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="@string/add_vko"
+        android:background="@drawable/registe_shape"/> -->
+    <RelativeLayout 
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:visibility="gone">
+    <!-- <ImageView 
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/i_vkologo"/> -->
+    </RelativeLayout>
+
+</LinearLayout>

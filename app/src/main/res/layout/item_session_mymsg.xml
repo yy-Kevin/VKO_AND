@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="11dp" >
+
+        <ImageView
+            android:id="@+id/left_msg_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/msg_sys" />
+
+        <TextView
+            android:id="@+id/msg_sys_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingRight="15dp"
+            android:paddingTop="8dp"
+            android:text=""
+            android:textColor="@color/common_light_text_color"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/msg_sys_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:layout_toRightOf="@+id/left_msg_icon"
+            android:maxLines="1"
+            android:text="系统消息"
+            android:maxEms="12"
+            android:ellipsize="end"
+            android:textColor="@color/common_dark_text_color"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/msg_sys_detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/msg_sys_title"
+            android:layout_toRightOf="@+id/left_msg_icon"
+            android:paddingRight="15dp"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+            android:text="还没有系统消息"
+            android:textColor="@color/common_light_text_color"
+            android:textSize="13sp" />
+
+        <ImageView
+            android:visibility="invisible"
+            android:id="@+id/new_msg_point_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/msg_sys_title"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/red_point" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/left_msg_icon"
+            android:layout_below="@+id/left_msg_icon"
+            android:background="@color/common_light_text_color" />
+    </RelativeLayout>
+
+
+
+</LinearLayout>

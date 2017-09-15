@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/bg_main_view"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+    <!--
+    <RelativeLayout 
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+    <TextView 
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:textColor="#D5D5D5"
+        android:paddingLeft="15dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/shape_personal_mesage_bg"
+        android:textSize="15sp"
+        android:text="@string/i_country"/>
+    <ImageView 
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="7dp"
+        android:layout_centerVertical="true"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:src="@drawable/i_arrows_r"/>
+    </RelativeLayout>
+    -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/shape_loginbg"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:text="@string/i_num"
+            android:textColor="#5A5A5A"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/ed_phone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shape_loginbg"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:inputType="number"
+            android:textColor="#5A5A5A"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/ed_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/shape_loginbg"
+            android:gravity="center_vertical"
+            android:hint="@string/i_inputnum"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textColor="#5A5A5A"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/login_button_selector"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/send_text"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/but_bind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/login_button_selector"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/i_sure"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+</LinearLayout>

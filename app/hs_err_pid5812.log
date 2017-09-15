@@ -1,0 +1,144 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 378256 bytes for Chunk::new
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (allocation.cpp:328), pid=5812, tid=6344
+#
+# JRE version: 7.0_11-b21
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (23.6-b04 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000000001bf4b800):  JavaThread "C2 CompilerThread0" daemon [_thread_in_native, id=6344, stack(0x000000001ce70000,0x000000001cf70000)]
+
+Stack: [0x000000001ce70000,0x000000001cf70000]
+
+Current CompileTask:
+C2:   2650  172             com.android.dx.ssa.Dominators::run (506 bytes)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x000000001dd13800 JavaThread "pool-2-thread-4" [_thread_blocked, id=10056, stack(0x000000001e920000,0x000000001ea20000)]
+  0x000000001dd12800 JavaThread "pool-2-thread-3" [_thread_blocked, id=9444, stack(0x000000001e770000,0x000000001e870000)]
+  0x000000001dcde800 JavaThread "pool-2-thread-2" [_thread_blocked, id=10088, stack(0x000000001e610000,0x000000001e710000)]
+  0x000000001dcdd800 JavaThread "pool-3-thread-1" [_thread_in_Java, id=8652, stack(0x000000001e430000,0x000000001e530000)]
+  0x000000001dcfb000 JavaThread "pool-2-thread-1" [_thread_blocked, id=7532, stack(0x000000001e200000,0x000000001e300000)]
+  0x000000001bf56000 JavaThread "Service Thread" daemon [_thread_blocked, id=8696, stack(0x000000001dae0000,0x000000001dbe0000)]
+  0x000000001bf4d800 JavaThread "C2 CompilerThread1" daemon [_thread_in_native, id=7100, stack(0x000000001d8b0000,0x000000001d9b0000)]
+=>0x000000001bf4b800 JavaThread "C2 CompilerThread0" daemon [_thread_in_native, id=6344, stack(0x000000001ce70000,0x000000001cf70000)]
+  0x000000001bf4a800 JavaThread "Attach Listener" daemon [_thread_blocked, id=6156, stack(0x000000001d650000,0x000000001d750000)]
+  0x000000001bf43800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=9872, stack(0x000000001d4d0000,0x000000001d5d0000)]
+  0x00000000025e1800 JavaThread "Finalizer" daemon [_thread_blocked, id=8612, stack(0x000000001d3d0000,0x000000001d4d0000)]
+  0x00000000025e0000 JavaThread "Reference Handler" daemon [_thread_blocked, id=8928, stack(0x000000001d210000,0x000000001d310000)]
+  0x000000000026c800 JavaThread "main" [_thread_blocked, id=8628, stack(0x0000000002630000,0x0000000002730000)]
+
+Other Threads:
+  0x000000001bea1800 VMThread [stack: 0x000000001d000000,0x000000001d100000] [id=4620]
+  0x000000001dbf0800 WatcherThread [stack: 0x000000001e0a0000,0x000000001e1a0000] [id=6992]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x000000000026b480] Heap_lock - owner thread: 0x000000000026c800
+
+Heap
+ PSYoungGen      total 37760K, used 5347K [0x0000000755560000, 0x0000000759f20000, 0x0000000800000000)
+  eden space 32384K, 0% used [0x0000000755560000,0x0000000755560050,0x0000000757500000)
+  from space 5376K, 99% used [0x0000000757500000,0x0000000757a38cb8,0x0000000757a40000)
+  to   space 5376K, 0% used [0x00000007599e0000,0x00000007599e0000,0x0000000759f20000)
+ ParOldGen       total 86272K, used 1523K [0x0000000600000000, 0x0000000605440000, 0x0000000755560000)
+  object space 86272K, 1% used [0x0000000600000000,0x000000060017ced8,0x0000000605440000)
+ PSPermGen       total 21248K, used 5874K [0x00000005fae00000, 0x00000005fc2c0000, 0x0000000600000000)
+  object space 21248K, 27% used [0x00000005fae00000,0x00000005fb3bc828,0x00000005fc2c0000)
+
+Card table byte_map: [0x00000000057f0000,0x0000000006820000] byte_map_base: 0x0000000002819000
+
+Polling page: 0x0000000000230000
+
+Code Cache  [0x0000000002730000, 0x00000000029a0000, 0x0000000005730000)
+ total_blobs=426 nmethods=189 adapters=188 free_code_cache=48383Kb largest_free_block=49524096
+
+Compilation events (10 events):
+Event: 2.600 Thread 0x000000001bf4d800 nmethod 184 0x00000000027de150 code [0x00000000027de2e0, 0x00000000027de650]
+Event: 2.600 Thread 0x000000001bf4d800  185             com.android.dx.dex.code.OutputFinisher::updateInfo (44 bytes)
+Event: 2.604 Thread 0x000000001bf4d800 nmethod 185 0x00000000027ddb50 code [0x00000000027ddcc0, 0x00000000027ddea8]
+Event: 2.604 Thread 0x000000001bf4d800  186             com.android.dx.dex.code.OutputCollector::add (9 bytes)
+Event: 2.609 Thread 0x000000001bf4d800 nmethod 186 0x00000000027e4110 code [0x00000000027e42a0, 0x00000000027e45f0]
+Event: 2.609 Thread 0x000000001bf4d800  187             com.android.dx.rop.type.Type::equals (31 bytes)
+Event: 2.610 Thread 0x000000001bf4d800 nmethod 187 0x00000000027dd790 code [0x00000000027dd8e0, 0x00000000027dda78]
+Event: 2.610 Thread 0x000000001bf4d800  188             com.android.dx.rop.type.Type::getDescriptor (5 bytes)
+Event: 2.610 Thread 0x000000001bf4d800 nmethod 188 0x00000000027db690 code [0x00000000027db7c0, 0x00000000027db838]
+Event: 2.610 Thread 0x000000001bf4d800  189             com.android.dx.ssa.SCCP::simulateBranch (666 bytes)
+
+GC Heap History (2 events):
+Event: 2.007 GC heap before
+{Heap before GC invocations=1 (full 0):
+ PSYoungGen      total 37760K, used 32384K [0x0000000755560000, 0x0000000757f80000, 0x0000000800000000)
+  eden space 32384K, 100% used [0x0000000755560000,0x0000000757500000,0x0000000757500000)
+  from space 5376K, 0% used [0x0000000757a40000,0x0000000757a40000,0x0000000757f80000)
+  to   space 5376K, 0% used [0x0000000757500000,0x0000000757500000,0x0000000757a40000)
+ ParOldGen       total 86272K, used 0K [0x0000000600000000, 0x0000000605440000, 0x0000000755560000)
+  object space 86272K, 0% used [0x0000000600000000,0x0000000600000000,0x0000000605440000)
+ PSPermGen       total 21248K, used 5874K [0x00000005fae00000, 0x00000005fc2c0000, 0x0000000600000000)
+  object space 21248K, 27% used [0x00000005fae00000,0x00000005fb3bc828,0x00000005fc2c0000)
+Event: 2.163 GC heap after
+Heap after GC invocations=1 (full 0):
+ PSYoungGen      total 37760K, used 5347K [0x0000000755560000, 0x0000000759f20000, 0x0000000800000000)
+  eden space 32384K, 0% used [0x0000000755560000,0x0000000755560000,0x0000000757500000)
+  from space 5376K, 99% used [0x0000000757500000,0x0000000757a38cb8,0x0000000757a40000)
+  to   space 5376K, 0% used [0x00000007599e0000,0x00000007599e0000,0x0000000759f20000)
+ ParOldGen       total 86272K, used 1523K [0x0000000600000000, 0x0000000605440000, 0x0000000755560000)
+  object space 86272K, 1% used [0x0000000600000000,0x000000060017ced8,0x0000000605440000)
+ PSPermGen       total 21248K, used 5874K [0x00000005fae00000, 0x00000005fc2c0000, 0x0000000600000000)
+  object space 21248K, 27% used [0x00000005fae00000,0x00000005fb3bc828,0x00000005fc2c0000)
+}
+
+Deoptimization events (7 events):
+Event: 1.324 Thread 0x000000001dd12800 Uncommon trap -12 fr.pc 0x00000000027afd1c
+Event: 1.556 Thread 0x000000000026c800 Uncommon trap -34 fr.pc 0x00000000027b19b4
+Event: 1.582 Thread 0x000000000026c800 Uncommon trap -34 fr.pc 0x00000000027b19b4
+Event: 1.790 Thread 0x000000001dcfb000 Uncommon trap -34 fr.pc 0x00000000027b19b4
+Event: 1.792 Thread 0x000000001dcfb000 Uncommon trap -34 fr.pc 0x00000000027b19b4
+Event: 1.840 Thread 0x000000001dcfb000 Uncommon trap -12 fr.pc 0x00000000027ee324
+Event: 1.857 Thread 0x000000000026c800 Uncommon trap -34 fr.pc 0x00000000027a2db4
+
+Internal exceptions (10 events):
+Event: 0.514 Thread 0x000000000026c800 Threw 0x0000000755f13a28 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 0.515 Thread 0x000000000026c800 Threw 0x0000000755f1c498 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 0.515 Thread 0x000000000026c800 Threw 0x0000000755f21670 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 0.516 Thread 0x000000000026c800 Threw 0x0000000755f24410 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 0.599 Thread 0x000000001dd13800 Threw 0x0000000755bf4878 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 0.605 Thread 0x000000001dd13800 Threw 0x0000000755c07288 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 1.292 Thread 0x000000000026c800 Threw 0x0000000756017d68 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 1.324 Thread 0x000000001dd12800 Implicit null exception at 0x00000000027af983 to 0x00000000027afd09
+Event: 1.614 Thread 0x000000001dcde800 Threw 0x0000000756b34938 at C:\jdk7u1_64p\jdk7u11\hotspot\src\share\vm\prims\jvm.cpp:1166
+Event: 1.840 Thread 0x000000001dcfb000 Implicit null exception at 0x00000000027ed486 to 0x00000000027ee2fd
+
+Events (10 events):
+Event: 1.790 Thread 0x000000001dcfb000 DEOPT PACKING pc=0x00000000027b19b4 sp=0x000000001e2fe840
+Event: 1.790 Thread 0x000000001dcfb000 DEOPT UNPACKING pc=0x0000000002769164 sp=0x000000001e2fe720 mode 2
+Event: 1.792 Thread 0x000000001dcfb000 DEOPT PACKING pc=0x00000000027b19b4 sp=0x000000001e2fe840
+Event: 1.792 Thread 0x000000001dcfb000 DEOPT UNPACKING pc=0x0000000002769164 sp=0x000000001e2fe720 mode 2
+Event: 1.840 Thread 0x000000001dcfb000 DEOPT PACKING pc=0x00000000027ee324 sp=0x000000001e2fe920
+Event: 1.840 Thread 0x000000001dcfb000 DEOPT UNPACKING pc=0x0000000002769164 sp=0x000000001e2fe838 mode 2
+Event: 1.857 Thread 0x000000000026c800 DEOPT PACKING pc=0x00000000027a2db4 sp=0x000000000272e320
+Event: 1.857 Thread 0x000000000026c800 DEOPT UNPACKING pc=0x0000000002769164 sp=0x000000000272e270 mode 2
+Event: 2.007 Executing VM operation: ParallelGCFailedAllocation
+Event: 2.163 Executing VM operation: ParallelGCFailedAllocation done

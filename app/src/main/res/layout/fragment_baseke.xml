@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.vko.ring.study.fragment.BasekeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_baseke_select"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="选择学科"
+            android:textSize="18sp"
+            android:background="#009bf8"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+        <cn.vko.ring.common.widget.SubjectFilterLayout
+            android:id="@+id/baseke_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#f9f9f9"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:scrollbars="none"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\qa_library\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\studio_project\\VkoCircleS\\qa_library\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\studio\\VkoCircleS\\qa_library\\res\\drawable-mdpi\\icon.png"
+    }
+]

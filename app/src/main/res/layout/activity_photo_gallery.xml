@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical" >
+
+    <cn.shikh.utils.photo.PhotoGallery
+        android:id="@+id/image_browser_phototgallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:spacing="5dip" />
+
+    <TextView
+        android:id="@+id/tv_photo_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textSize="18sp"
+        android:textColor="@color/white" />
+    
+    <TextView 
+        android:id="@+id/tv_photo_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        android:textColor="@color/color_text_selector"
+        android:textSize="16sp"
+        android:paddingLeft="15dp"
+        android:paddingBottom="8dp"
+        android:paddingRight="15dp"
+        android:paddingTop="8dp"
+        android:background="@drawable/shape_back_text_bg"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        />
+
+</RelativeLayout>

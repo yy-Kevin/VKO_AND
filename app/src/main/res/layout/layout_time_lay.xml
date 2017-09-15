@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/time_info"
+        android:textSize="16sp"
+        android:textColor="@color/text_gray_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/_time_info" />
+
+    <TextView
+        android:id="@+id/time_now"
+        android:padding="3dp"
+        android:textSize="18sp"
+        android:typeface="monospace"
+        android:textColor="@color/red_btn_bg_color"
+        android:text="00:00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center" />
+
+</LinearLayout>

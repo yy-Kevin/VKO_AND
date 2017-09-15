@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#50000000"
+    android:id="@+id/vb_bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+   <TextView
+       android:id="@+id/vb_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:text="恭喜你获得了"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_below="@+id/vb_info"
+        android:id="@+id/tv_vb_num"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="60V币"
+        android:textColor="#f5b73b"
+        android:textSize="26sp" />
+    <ImageView 
+        android:id="@+id/iv_vb_image"
+        android:layout_above="@+id/vb_info"
+        android:scaleType="center"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/vb"/>
+ 
+
+</RelativeLayout>

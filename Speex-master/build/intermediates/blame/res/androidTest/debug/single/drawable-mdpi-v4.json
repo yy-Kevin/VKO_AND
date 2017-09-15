@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon.png"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\studio_project\\VkoCircleS\\Speex-master\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon.png"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\studio\\VkoCircleS\\Speex-master\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon.png"
+    }
+]

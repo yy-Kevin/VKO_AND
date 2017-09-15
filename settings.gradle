@@ -1,0 +1,3 @@
+include ':app', ':library',
+        ':qa_library', ':jsbridge_library', ':crop_library',
+        ':PushSDK', ':uikit', ':Speex-master'

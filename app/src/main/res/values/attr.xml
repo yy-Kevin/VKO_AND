@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="progressLayout">
+        <attr name="emptyColor" format="color" />
+        <attr name="loadedColor" format="color" />
+        <attr name="maxProgress" format="integer" />
+        <attr name="autoProgress" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="ProgressWheel">
+        <attr name="matProg_progressIndeterminate" format="boolean" />
+        <attr name="matProg_barColor" format="color" />
+        <attr name="matProg_rimColor" format="color" />
+        <attr name="matProg_rimWidth" format="dimension" />
+        <attr name="matProg_spinSpeed" format="float" />
+        <attr name="matProg_barSpinCycleTime" format="integer" />
+        <attr name="matProg_circleRadius" format="dimension" />
+        <attr name="matProg_fillRadius" format="boolean" />
+        <attr name="matProg_barWidth" format="dimension" />
+        <attr name="matProg_linearProgress" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Rotate3dAnimation">
+        <attr name="rollType" format="enum">
+            <enum name="x" value="0" />
+            <enum name="y" value="1" />
+            <enum name="z" value="2" />
+        </attr>
+        <attr name="fromDeg" format="float" />
+        <attr name="toDeg" format="float" />
+        <attr name="pivotX" format="fraction" />
+        <attr name="pivotY" format="fraction" />
+    </declare-styleable>
+    <declare-styleable name="ProgressBarWithNumber">
+        <attr name="progress_unreached_color" format="color" />
+        <attr name="progress_reached_color" format="color" />
+        <attr name="progress_bar_height" format="dimension" />
+        <attr name="progress_text_size" format="dimension" />
+        <attr name="progress_text_visibility" format="enum">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="1" />
+        </attr>
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+    <!-- 水平进度条，带空隙 -->
+    <declare-styleable name="HorizontalProgressBarWithSpace">
+        <attr name="progress_noreached_color" format="color" />
+        <attr name="progress_hasreached_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="SwipeFlingAdapterView">
+        <attr name="SwipeFlingStyle" format="reference" />
+        <attr name="rotation_degrees" format="float" />
+        <attr name="min_adapter_stack" format="integer" />
+        <attr name="max_visible" format="integer" />
+    </declare-styleable>
+
+    <!-- shapeview -->
+    <attr name="siArrowPosition">
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+    </attr>
+    <attr name="siBorderType">
+        <enum name="stroke" value="0" />
+        <enum name="fill" value="1" />
+    </attr>
+    <attr name="siStrokeCap">
+        <enum name="butt" value="0" />
+        <enum name="round" value="1" />
+        <enum name="square" value="2" />
+    </attr>
+    <attr name="siStrokeJoin">
+        <enum name="bevel" value="0" />
+        <enum name="miter" value="1" />
+        <enum name="round" value="2" />
+    </attr>
+
+    <declare-styleable name="ShaderImageView">
+        <attr name="siSquare" format="boolean" />
+        <attr name="siBorderColor" format="color" />
+        <attr name="siBorderWidth" format="dimension" />
+        <attr name="siBorderAlpha" format="float" />
+        <attr name="siForeground" format="integer|reference" />
+        <!-- Rounded Image View -->
+        <attr name="siRadius" format="dimension" />
+        <!-- BubbleImageView -->
+        <attr name="siArrowPosition" />
+        <attr name="siTriangleHeight" format="dimension" />
+        <!-- PorterImageView -->
+        <attr name="siShape" format="integer|reference" />
+        <!-- ShaderImageView -->
+        <attr name="siBorderType" />
+        <attr name="siStrokeCap" />
+        <attr name="siStrokeJoin" />
+        <attr name="siStrokeMiter" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="RectProgressView">
+
+        <!-- 初始颜色 -->
+        <attr name="initColor" format="color"></attr>
+        <!-- 进度颜色 -->
+        <attr name="progressColor" format="color"></attr>
+        <!-- 边框颜色 -->
+        <attr name="borderColor" format="color"></attr>
+        <!-- 边框宽度 -->
+        <attr name="borderWidth" format="dimension"></attr>
+        <!-- 文本颜色 -->
+        <attr name="textColor" format="color"></attr>
+        <!-- 文本大小 -->
+        <attr name="textSize" format="dimension"></attr>
+        <!-- 文本内容 -->
+        <attr name="text" format="string"></attr>
+        <!-- 进度 -->
+        <attr name="progress" format="integer"></attr>
+        <!-- 最大值 -->
+        <attr name="max" format="integer"></attr>
+        <!-- 圆角大小 -->
+        <attr name="radiuscri" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="RoundProgressBar">
+        <attr name="roundColor" format="color" />
+        <attr name="roundProgressColor" format="color" />
+        <attr name="vkoroundWidth" format="dimension"></attr>
+        <attr name="vkotextColor" format="color" />
+        <attr name="vkotextSize" format="dimension" />
+        <attr name="vkomax" format="integer"></attr>
+        <attr name="textIsDisplayable" format="boolean"></attr>
+        <attr name="style">
+            <enum name="STROKE" value="0"></enum>
+            <enum name="FILL" value="1"></enum>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="StarView">
+        <attr name="leftIcon" format="reference" />
+        <attr name="rightIcon" format="reference" />
+        <attr name="textContent" format="string" />
+        <attr name="textStarColor" format="color" />
+        <!-- 矩形背景色 -->
+        <attr name="textBgColor" format="color" />
+        <attr name="textStarSize" format="integer" />
+        <!-- x,y,方向的圆角半径大小 -->
+        <attr name="textbgX" format="integer" />
+        <attr name="textbgY" format="integer" />
+        <!-- 矩形上边距离坐标图标的顶部高度 -->
+        <attr name="marginTopLeftIconRate" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="SwitchButton">
+		<attr name="kswThumbDrawable" format="reference"/>
+		<attr name="kswThumbColor" format="color|reference"/>
+		<attr name="kswThumbMargin" format="dimension|reference"/>
+		<attr name="kswThumbMarginTop" format="dimension|reference"/>
+		<attr name="kswThumbMarginBottom" format="dimension|reference"/>
+		<attr name="kswThumbMarginLeft" format="dimension|reference"/>
+		<attr name="kswThumbMarginRight" format="dimension|reference"/>
+		<attr name="kswThumbWidth" format="dimension|reference"/>
+		<attr name="kswThumbHeight" format="dimension|reference"/>
+		<attr name="kswThumbRadius" format="dimension|reference"/>
+		<attr name="kswBackRadius" format="dimension|reference"/>
+		<attr name="kswBackDrawable" format="reference"/>
+		<attr name="kswBackColor" format="color|reference"/>
+		<attr name="kswFadeBack" format="boolean"/>
+		<attr name="kswBackMeasureRatio" format="float"/>
+		<attr name="kswAnimationDuration" format="integer"/>
+		<attr name="kswTintColor" format="color|reference"/>
+	</declare-styleable>
+
+
+   <!--  <declare-styleable name="EaseEmojiconMenu">
+       	<attr name="emojiconRows" format="integer"/>
+       	<attr name="emojiconColumns" format="integer"/>
+    </declare-styleable> -->
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension"/>
+        <attr name="civ_border_color" format="color"/>
+        <attr name="civ_border_overlay" format="boolean"/>
+        <attr name="civ_fill_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="ImageViewEx">
+        <attr name="exiv_default_image_res" format="reference"/>
+    </declare-styleable>
+
+    <!-- 分页标签 -->
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color"/>
+        <attr name="pstsUnderlineColor" format="color"/>
+        <attr name="pstsDividerColor" format="color"/>
+        <attr name="pstsCheckedTextColor" format="reference"/>
+        <attr name="pstsUncheckedTextColor" format="reference"/>
+        <attr name="pstsIndicatorHeight" format="dimension"/>
+        <attr name="pstsUnderlineHeight" format="dimension"/>
+        <attr name="pstsDividerPadding" format="dimension"/>
+        <attr name="pstsTabPaddingLeftRight" format="dimension"/>
+        <attr name="pstsScrollOffset" format="dimension"/>
+        <attr name="pstsTabBackground" format="reference"/>
+        <attr name="pstsShouldExpand" format="boolean"/>
+        <attr name="pstsTextAllCaps" format="boolean"/>
+    </declare-styleable>
+
+
+    <!-- 左右文本 -->
+    <declare-styleable name="TwoTextView">
+
+        <!-- 左边文本内容 -->
+        <attr name="ttLeftText" format="string|reference"/>
+        <!-- 右边文本内容 -->
+        <attr name="ttRightText" format="string|reference"/>
+        <!-- 左边文本字体大小 -->
+        <attr name="ttLeftTextSize" format="dimension"/>
+        <!-- 右边文本字体大小 -->
+        <attr name="ttRightTextSize" format="dimension"/>
+        <!-- 左边文本颜色 -->
+        <attr name="ttLeftTextColor" format="reference"/>
+        <!-- 右边文本颜色 -->
+        <attr name="ttRightTextColor" format="reference"/>
+    </declare-styleable>
+</resources>

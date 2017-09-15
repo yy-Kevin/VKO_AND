@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/msg_time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="11-25 18:30"
+            android:textColor="@color/common_light_text_color" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/mag_bg" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="14dp"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp"
+                android:paddingTop="14dp" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <cn.vko.ring.common.widget.RoundAngleImageView
+                        android:id="@+id/left_msg_image"
+                        android:layout_width="72dp"
+                        android:layout_height="72dp"
+                        android:layout_marginRight="12dp"
+                        android:scaleType="fitXY"
+                        app:roundHeight="10dp"
+                        app:roundWidth="10dp" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@+id/left_msg_image"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/msg_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:lineSpacingMultiplier="1.2"
+                            android:paddingTop="6dp"
+                            android:text="系统消息"
+                            android:textColor="@color/common_dark_text_color"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_marginTop="8dp"
+                            android:layout_marginBottom="8dp"
+                            android:id="@+id/link_img"
+                            android:visibility="gone"
+                            android:layout_width="fill_parent"
+                            android:background="@drawable/msg_rec_bg"
+                            android:layout_height="170dp"
+                            android:scaleType="fitXY" />
+
+                        <TextView
+                            android:id="@+id/msg_detail"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:lineSpacingMultiplier="1.2"
+                            android:paddingRight="15dp"
+                            android:paddingTop="8dp"
+                            android:text=""
+                            android:textColor="@color/common_light_text_color"
+                            android:textSize="13sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:paddingLeft="84dp" >
+
+                    <TextView
+                        android:id="@+id/tv_sure"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ok_sure"
+                        android:drawablePadding="10dp"
+                        android:text="已同意"
+                        android:textColor="@color/common_light_text_color"
+                        android:textSize="16sp"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_refuse"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/tv_sure"
+                        android:drawableLeft="@drawable/ok_refuse"
+                        android:drawablePadding="10dp"
+                        android:text="已拒绝"
+                        android:textColor="@color/common_light_text_color"
+                        android:textSize="16sp"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/sure_and_refuse_lay"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="14dp"
+                    android:orientation="horizontal"
+                    android:visibility="visible" >
+
+                    <Button
+                        android:id="@+id/btn_refuse"
+                        style="@style/rufuse_btn_style"
+                        android:layout_width="fill_parent"
+                        android:layout_height="35dp"
+                        android:layout_weight="1"
+                        android:text="拒绝" />
+
+                    <Button
+                        android:id="@+id/btn_sure"
+                        style="@style/sure_btn_style"
+                        android:layout_width="fill_parent"
+                        android:layout_height="35dp"
+                        android:layout_weight="1"
+                        android:text="同意" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/line_view"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:layout_marginTop="14dp"
+                    android:background="@color/common_line_color" />
+
+                <TextView
+                    android:id="@+id/goto_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/find_arrow_right"
+                    android:paddingTop="10dp"
+                    android:text="查看详情"
+                    android:textColor="@color/common_light_text_color"
+                    android:textSize="14sp" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

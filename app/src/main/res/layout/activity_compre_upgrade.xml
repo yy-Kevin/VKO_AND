@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_select_book_head" />
+
+    <cn.vko.ring.common.widget.xlv.XListView
+        android:id="@+id/lv_courseVideo"
+        style="@style/common_bar_style"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/transparent"
+        android:cacheColorHint="#00000000"
+        android:dividerHeight="18dp"
+        android:listSelector="#00000000" >
+    </cn.vko.ring.common.widget.xlv.XListView>
+
+</LinearLayout>

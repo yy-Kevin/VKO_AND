@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/exam_result_bg"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_all_and_right"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="38dp"
+            android:gravity="center"
+            android:textColor="@color/text_title_color"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/rightrate"
+                android:textColor="@color/text_title_color"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_right_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="8dp"
+                android:paddingRight="10dp"
+                android:text="80%"
+                android:textColor="@color/text_result_color"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_star_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/rightratenum"
+                android:textColor="@color/text_title_color"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_star_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawablePadding="5dp"
+                android:drawableRight="@drawable/test_result_starbig"
+                android:gravity="center"
+                android:paddingLeft="8dp"
+                android:text="80"
+                android:textColor="@color/text_result_color"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_start_info_comp"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/star_info"
+            android:textColor="@color/text_title_color"
+            android:textSize="11sp" />
+
+        <Button
+            android:id="@+id/btn_start_test"
+            style="@style/common_blue_btn_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="18sp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:text="立即测试"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <cn.vko.ring.common.widget.xlv.XListView
+        android:id="@+id/lv_record"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/exam_result_bg"
+        android:dividerHeight="10dp"
+        android:listSelector="@color/transparent"
+        android:orientation="vertical"
+        android:overScrollMode="never"
+        android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+        android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track" />
+
+</LinearLayout>

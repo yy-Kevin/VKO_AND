@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pushSDK/PushSDK.iml" filepath="$PROJECT_DIR$/pushSDK/PushSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Speex-master/Speex-master.iml" filepath="$PROJECT_DIR$/Speex-master/Speex-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VkoCircleS.iml" filepath="$PROJECT_DIR$/VkoCircleS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crop_library/crop_library.iml" filepath="$PROJECT_DIR$/crop_library/crop_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsbridge_library/jsbridge_library.iml" filepath="$PROJECT_DIR$/jsbridge_library/jsbridge_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qa_library/qa_library.iml" filepath="$PROJECT_DIR$/qa_library/qa_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" />
+    </modules>
+  </component>
+</project>

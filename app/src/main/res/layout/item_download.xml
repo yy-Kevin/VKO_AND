@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dip"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="3" >
+
+            <TextView
+                android:id="@+id/tv_vid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="sdffff" />
+
+            <TextView
+                android:id="@+id/duration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"               
+                android:layout_below="@+id/tv_vid"
+                android:text="时长 :" />
+
+            <TextView
+                android:id="@+id/tv_duration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_vid"
+                android:layout_toRightOf="@+id/duration"
+                android:text="00:00:44" />
+
+            <TextView
+                android:id="@+id/filesize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_vid"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@+id/tv_duration"
+                android:text="大小:" />
+
+            <TextView
+                android:id="@+id/tv_filesize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_vid"
+                android:layout_toRightOf="@+id/filesize"
+                android:text="100MB" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"           
+            android:layout_weight="2" 
+            android:layout_gravity="center_vertical"
+            >
+
+            <Button
+                android:id="@+id/delete"
+                android:layout_width="60dip"
+                android:layout_height="30dip"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="2dip"
+                android:background="@drawable/selector_blue_button"
+                android:text="删除"
+                android:textSize="8sp" />
+
+            <Button
+                android:id="@+id/download"
+                android:layout_width="60dip"
+                android:layout_height="30dip"
+                android:layout_centerVertical="true"
+                android:layout_margin="2dip"
+                android:layout_toRightOf="@+id/delete"
+                android:background="@drawable/selector_blue_button"
+                android:text="开始"
+                android:textSize="8sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl"
+        android:layout_margin="5dp" >
+
+        <cn.vko.ring.study.widget.RectProgressView
+            android:id="@+id/progressBar"
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android_custom:borderWidth="0.1dp"
+            android_custom:initColor="#d9d9d9"
+            android_custom:progress="60"
+            android_custom:progressColor="#336699"
+            android_custom:radiuscri="5dp" />
+
+        <TextView
+            android:id="@+id/rate"
+            android:layout_width="wrap_content"
+            android:layout_height="20dip"
+            android:layout_below="@+id/progressBar"
+            android:layout_toLeftOf="@+id/precent"
+            android:text="0" />
+
+        <TextView
+            android:id="@+id/precent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/progressBar"
+            android:layout_below="@+id/progressBar"
+            android:text="%" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:paddingBottom="15dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/i_setting_learn"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <RadioGroup
+                android:id="@+id/rg_button"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/tv_juniorone"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/junior_grade_one"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/tv_juniortwo"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/junior_grade_two"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/tv_juniorthree"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/junior_grade_end"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/tv_highone"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/high_grade_one"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/tv_hightwo"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/hige_grade_two"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/tv_highthree"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/grade_btn_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:text="@string/high_grade_end"
+                    android:textColor="@color/selector_subtext_bg"
+                    android:textSize="16sp" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/i_local"
+                android:gravity="center"
+                android:text="@string/select_location"
+                android:textColor="#5A5A5A"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_city"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=""
+                android:textColor="#378DCC"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/select_school"
+                android:textColor="#5A5A5A"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_school"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text=""
+                android:textColor="#378DCC"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_edittext_seacher" >
+
+        <cn.vko.ring.common.widget.ContainsEmojiEditText
+            android:id="@+id/edit_bind_school"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@color/transparent"
+            android:ems="10"
+            android:hint="@string/edit_seacher_hint"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/search_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:clickable="true"
+            android:src="@drawable/top_search"/>
+    </RelativeLayout>
+
+    <cn.vko.ring.common.widget.xlv.XListView
+        android:id="@+id/refresh_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/transparent"
+        android:dividerHeight="1dp"
+        android:listSelector="@color/transparent"
+        android:overScrollMode="never"
+        android:scrollbars="none" />
+
+</LinearLayout>

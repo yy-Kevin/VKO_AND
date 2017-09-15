@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/report_reason_hint" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/study_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_study_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_study"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/i_report_select" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_line" />
+        <RelativeLayout
+            android:id="@+id/sexy_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_sexy_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_sexy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:visibility="gone"
+                android:src="@drawable/i_report_select" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_line" />
+
+        <RelativeLayout
+            android:id="@+id/advert_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_advert_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_advert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/i_report_select"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+       <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_line" />
+
+        <RelativeLayout
+            android:id="@+id/politics_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_politics_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_politics"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/i_report_select"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+         <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_line" />
+
+        <RelativeLayout
+            android:id="@+id/rumor_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_rumor_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_rumor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/i_report_select"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_line" />
+
+        <RelativeLayout
+            android:id="@+id/cheat_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/report_cheat_text"
+                android:textColor="@color/text_black_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/iv_cheat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/i_report_select"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/report_quote_hint" />
+
+    <TextView
+        android:id="@+id/tv_supply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:drawableRight="@drawable/my_main_i_enter"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:text="@string/report_supply_hint"
+        android:textColor="@color/text_black_color"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/but_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/selector_blue_button"
+        android:padding="10dp"
+        android:text="@string/text_problem_submit"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/bg_main_view"
+    android:orientation="vertical"
+
+  >
+<include layout="@layout/layout_view_head"></include>
+    <com.netease.nim.uikit.common.viewpager.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/skin_global_bg" />
+
+    <android.support.v4.view.ViewPager
+        android:layout_weight="1"
+        android:id="@+id/main_tab_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabs" />
+    <TextView
+        android:id="@+id/btn_send"
+        android:background="@drawable/bule_selector"
+        android:layout_width="match_parent"
+        android:text="@string/send_course"
+        android:textSize="@dimen/text_size_16"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/white"
+        android:layout_height="48dp"/>
+</LinearLayout>

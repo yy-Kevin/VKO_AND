@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.vko.ring.common.widget.xlv.XListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/xlistview"
+    style="@style/common_bar_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:cacheColorHint="#00000000"
+    android:divider="@color/bg_line"
+    android:dividerHeight="0.5dp"
+    android:headerDividersEnabled="true"
+    android:listSelector="@color/transparent"
+    android:paddingTop="20dp"
+    android:overScrollMode="never" />

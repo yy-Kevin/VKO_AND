@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/nim_list_item_selector"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--<include layout="@layout/layout_view_head"></include>-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_change_color"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_back_bg"
+                android:clickable="true"
+                android:padding="10dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/go_back_header_title" />
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="40dp"
+                android:paddingRight="40dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_right"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginRight="@dimen/dimen10"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:textColor="@color/white"
+                android:background="@drawable/add_icon"
+                 />
+
+            <ImageView
+                android:id="@+id/my_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/tv_right"
+                android:layout_centerVertical="true"
+                android:src="@drawable/im_group_member"
+                android:background="@drawable/selector_btn_bg"
+                android:padding="10dp"
+                />
+
+            <ImageView
+                android:id="@+id/imagebtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/add_icon"
+                android:background="@drawable/selector_btn_bg"
+                android:padding="10dp"
+                android:visibility="gone"
+                />
+
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/iv_session_ad"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:padding="2dp"
+            android:visibility="gone"
+            android:src="@drawable/ad_no_point" />
+    </RelativeLayout>
+
+    <include layout="@layout/network_status_bar"
+        android:background="@drawable/nim_list_item_selector"/>
+
+    <include layout="@layout/multiport_status_bar"
+        android:background="@drawable/nim_list_item_selector"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:id="@+id/my_class_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common_item_onclick_selector"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:text="我的班群"
+
+            android:textColor="@color/text_gray_color" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="8dp"
+        android:background="@color/common_line_color"
+        android:visibility="gone"/>
+
+    <ListView
+        android:id="@+id/my_class_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        >
+    </ListView>
+
+    <TextView
+        android:id="@+id/session_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/common_item_onclick_selector"
+        android:padding="10dp"
+        android:text="会话列表"
+        android:visibility="gone"
+        android:textColor="@color/text_gray_color"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/common_line_color" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/nim_list_item_selector"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical">
+            <cn.vko.ring.common.widget.xlv.MyListView
+                android:id="@+id/session_msglistview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="#00000000"
+                android:divider="@null"
+                android:listSelector="@color/transparent"
+                android:overScrollMode="never"
+                style="@style/common_bar_style"
+                />
+            <include
+                android:id="@+id/empty"
+                layout="@layout/layout_empty_view"
+                android:visibility="gone"
+                />
+            <RelativeLayout
+                android:id="@+id/session_relative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/nim_list_item_selector"
+                android:paddingTop="11dp"
+                android:paddingBottom="5dp"
+                >
+
+                <ImageView
+                    android:id="@+id/left_msg_icon"
+                    android:layout_width="@dimen/avatar_size_default"
+                    android:layout_height="@dimen/avatar_size_default"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="12dp"
+                    android:src="@drawable/im_circle" />
+
+                <TextView
+                    android:id="@+id/msg_sys_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center"
+                    android:paddingRight="15dp"
+                    android:paddingTop="8dp"
+                    android:text=""
+                    android:textColor="@color/common_light_text_color"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/msg_sys_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_toLeftOf="@+id/msg_sys_time"
+                    android:layout_toRightOf="@+id/left_msg_icon"
+                    android:paddingTop="6dp"
+                    android:text="我的圈子"
+                    android:textColor="@color/common_dark_text_color"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/msg_sys_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/msg_sys_title"
+                    android:layout_toRightOf="@+id/left_msg_icon"
+                    android:paddingRight="15dp"
+                    android:paddingTop="6dp"
+                    android:singleLine="true"
+                    android:text="精彩内容每日更新，给学习加点料~"
+                    android:textColor="@color/common_light_text_color"
+                    android:textSize="13sp" />
+
+                <ImageView
+                    android:visibility="invisible"
+                    android:id="@+id/new_msg_point_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/msg_sys_title"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/red_point" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@+id/left_msg_icon"
+                    android:layout_below="@+id/msg_sys_detail"
+                    android:background="@color/common_light_text_color" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/messages_fragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/nim_list_item_selector"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/nim_list_item_selector"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

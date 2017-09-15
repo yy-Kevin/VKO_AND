@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/white">
+
+    <TextView
+        android:drawableLeft="@drawable/class_main_b_bg"
+        android:drawablePadding="10dp"
+        android:id="@+id/all_class_book_name"
+          style="@style/test_text_gray_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="二元一次方程1"
+        android:textColor="@color/text_title_color"
+        android:textSize="16sp"
+        />
+
+
+</RelativeLayout>

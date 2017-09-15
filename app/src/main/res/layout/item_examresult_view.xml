@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:vko="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/time_lay"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_time_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:paddingBottom="8dp"
+                android:paddingLeft="8dp"
+                android:text="2015-08-15"
+                android:textColor="@color/tv_content_corlor"
+                android:textSize="12sp" />
+
+            <!--
+                 <TextView
+                android:id="@+id/tv_star_small_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/test_result_starss"
+                android:gravity="right"
+                android:paddingRight="8dp"
+                android:text="4"
+                android:textColor="@color/text_title_color" />
+            -->
+
+            <cn.vko.ring.study.widget.StarView
+                android:layout_marginLeft="13dp"
+                android:id="@+id/tv_star_small_num"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="15dp"
+                android:layout_marginRight="5dp"
+                vko:leftIcon="@drawable/my_ico_star"
+                vko:marginTopLeftIconRate="20"
+                vko:textBgColor="@color/bg_tree_btn_gray"
+                vko:textContent="6"
+                vko:textStarColor="@color/text_title_color"
+               />
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/gv_test_index"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="18dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="18dp"
+            android:background="@color/transparent"
+            android:horizontalSpacing="10dp"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="5"
+            android:scrollbars="none"
+             >
+        </GridView>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/gridviewbg" />
+
+    <LinearLayout
+        android:id="@+id/recommond_lay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_recommond_know_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="10dp"
+            android:text="@string/_need_strange"
+            android:textColor="@color/text_title_color" />
+
+        <TextView
+            android:id="@+id/tv_recommond_know"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="函数的运用"
+            android:textColor="@color/tv_blue_corlor" />
+    </LinearLayout>
+
+</LinearLayout>

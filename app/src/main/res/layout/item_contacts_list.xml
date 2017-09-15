@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/contacts_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="黄晓明"
+        android:textColor="@color/text_default_color"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/contacts_invite_btn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/contacts_name"
+        android:layout_alignBottom="@+id/contacts_name"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="26dp"
+        android:background="@color/white"
+        android:drawableRight="@drawable/my_main_i_enter"
+        android:text="邀请  "
+        android:textColor="#ccc"
+        android:textSize="16sp" />
+
+</RelativeLayout>

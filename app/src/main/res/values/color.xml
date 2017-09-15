@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF03A9F4</color>
+    <color name="primary_dark">#FF0288D1</color>
+    <color name="status_bar_color">@color/primary_dark</color>
+    <!-- main -->
+    <color name="actionbar_bg">#FF0099CC</color>
+    <color name="statusbar_bg">#0000CD</color>
+    <color name="study_bg">#ebf8ff</color>
+    <color name="study_top_bg">#0a9fea</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#50D5D5D5</color>
+    <color name="red">#3c3f41</color>
+    <color name="blue">#0a9fea</color>
+    <color name="blue_study">#41b4ee</color>
+    <color name="blue_version">#b8e7ff</color>
+    <color name="green">#22cc32</color>
+    <color name="last_gray">#d9d9d9</color>
+    <color name="last_more_gray">#cccccc</color>
+    <color name="subject_click">#F4F4F4</color>
+    <color name="exam_result_bg">#f6f6f6</color>
+    <color name="setion_backgroup_cpolor">#999999</color>
+    <color name="verdiacode">#71C5F2</color>
+    <color name="boderclickr">#dadada</color>
+    <color name="boderclickb">#1a8fcc</color>
+    <color name="bosolid">#27a7e9</color>
+    <color name="course_back">#25EDFF</color>
+    <color name="text_sing_color">#60c6fa</color>
+    <!-- text -->
+
+    <color name="text_course_color">#C8DFEA</color>
+    <color name="text_mounth_blue_color">#7bcffa</color>
+    <color name="text_blue_color">#0079ff</color>
+    <color name="text_version_color">#2192cd</color>
+    <color name="text_jujue_color">#676767</color>
+    <color name="text_book_color">#2395ce</color>
+    <color name="text_black_color">#0e0e0e</color>
+    <color name="text_red_color">#FF7373</color>
+    <color name="text_system_color">#BBBBBB</color>
+    <!-- #929292 -->
+    <color name="text_default_color">#676767</color>
+    <color name="text_title_color">#5a5a5a</color>
+    <color name="text_curriculum">#ffffff</color>
+    <color name="text_last_video_play">#339999</color>
+    <color name="tv_grade_offered_volumes">#378DCC</color>
+    <color name="tv_content_corlor">#999999</color>
+    <color name="tv_carry_corlor">#FFFFFF</color>
+    <color name="text_gray_color">#9d948a</color>
+    <color name="tv_blue_corlor">#378DCC</color>
+    <color name="text_info_color">#999999</color>
+    <color name="text_show_color">#5A5A5A</color>
+    <color name="text_result_color">#FF6161</color>
+    <color name="text_rec_color">#2192cb</color>
+    <color name="text_login">#676767</color>
+    <color name="text_blue">#71C5F2</color>
+    <color name="delete_red">#ed2d36</color>
+    <color name="delete_gray">#a9a9a9</color>
+    <color name="login_gray">#0e0e0e</color>
+    <color name="text_view_indeclor">#71C5F2</color>
+    <!-- 进度条颜色 -->
+    <color name="course_progress">#6babdd</color>
+    <!-- 边框 -->
+    <color name="course_progress_broad">#d9d9d9</color>
+
+    <!-- background -->
+
+    <color name="find_sep_backgroud_clolor">#adee93</color>
+    <color name="question_backgroud_clolor">#D7E9F9</color>
+    <color name="bg_main_blue_color">#0a9fea</color>
+    <color name="bg_tran_blue_color">#99378DCC</color>
+    <color name="bg_line">#F3F3F3</color>
+    <color name="bg_course">#cccccc</color>
+    <color name="bg_course_header">#ffffff</color>
+    <color name="bg_main_view">#edf0f3</color>
+    <color name="fl_last_play">#ffffff</color>
+    <color name="bg_exam_play">#F6F6F6</color>
+    <color name="bg_tree_btn_gray">#E9E9E9</color>
+    <color name="bg_video_play">#cccccc</color>
+    <color name="pink_feb9c4">#Feb9c4</color>
+    <color name="gridviewbg">#D9D9D9</color>
+    <color name="griditemgreen">#B4E5BE</color>
+    <color name="griditemdarkgreen">#61d66c</color>
+    <color name="griditemred">#F68989</color>
+    <color name="griddarkitemred">#e25a5a</color>
+    <color name="bg_light_blue_color">#48B3EE</color>
+    <color name="personal_info_background">#0a9fea</color>
+    <color name="personal_info_pressed">#bb27638E</color>
+    <color name="scan_title_color">#99000000</color>
+    <color name="recom_tvbg_color">#a3dbf8</color>
+    <color name="study_chapter_head">#10A4F0</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="green_btn_bg_pressed_color">#2c9e36</color>
+    <color name="green_btn_bg_unpressed_color">#34b740</color>
+
+    <!-- alertdialog -->
+    <color name="float_transparent">#66000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_light_color">#79b9e8</color>
+    <color name="blue_btn_bg_pressed_light_color">#0a9fea</color>
+    <color name="blue_btn_bg_color">#0a9fea</color>
+    <color name="blue_btn_bg_pressed_color">#336699</color>
+    <color name="red_btn_bg_color">#f88080</color>
+    <color name="red_btn_bg_pressed_color">#e25a5a</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="listview_item_press_color">#d1d1d1</color>
+    <color name="login_btn_press">#678DCC</color>
+    <!-- course -->
+    <color name="video_select">#336699</color>
+    <color name="layout_course_special_topic">#3399cc</color>
+    <color name="answer_uncheck">#fbfbfb</color>
+    <color name="answer_checked">#0a9fea</color>
+    <color name="selelct_video_color">#336699</color>
+    <color name="selelct_video_nospressed_color">#ffffff</color>
+    <color name="video_last">#cccccc</color>
+    <!-- view -->
+    <color name="time_line_bg">#0099cc</color>
+    <color name="show_yellow">#fdc14d</color>
+    <color name="gray_line">#d9d9d9</color>
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <color name="card_bg">#d1d1d1</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#000000</color>
+    <color name="first">#e25a5a</color>
+    <color name="second">#fdc14d</color>
+    <color name="third">#61d66c</color>
+    <color name="default_one">#323133</color>
+
+    <!-- found -->
+    <color name="found_bg_color">#edf0f3</color>
+
+    <!-- common -->
+    <color name="common_line_color">#dbdee0</color>
+    <color name="common_dark_text_color">#0e0e0e</color>
+    <color name="common_light_text_color">#a9a9a9</color>
+    <color name="common_pressed_color">#d8e2e8</color>
+
+     <color name="colorPrimary">#F3F3F3</color> 
+  <color name="colorPrimaryDark">#F3F3F3</color> 
+  <color name="colorAccent">#F3F3F3</color> 
+  <color name="divider">#E5E5E5</color> 
+  <color name="shadow">#AAEBEBEB</color> 
+  <color name="common_bg">#FAFAFA</color> 
+  <color name="content_bg">#F3F3F3</color> 
+  <color name="gray">#8c8c8c</color> 
+  <color name="gray_deep">#5c5c5c</color> 
+  <color name="alpha_gray">#CC646464</color> 
+  <color name="theme_gray">#646464</color>
+
+
+    <color name="grey">#333333</color>
+    <color name="global_bg">#9000</color>
+    <color name="color_green_01d9ae">#01D9AE</color>
+    <color name="color_blue_0888ff">#0888ff</color>
+    <color name="color_gray_d9d9d9">#d9d9d9</color>
+
+    <color name="grey_white_has_alpha">#66FAFAFA</color>
+    <color name="color_network_bar_bg_ee4b62">#ee4b62</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_grey_888888">#888888</color>
+    <color name="color_activity_blue_bg">#f7389fff</color>
+    <color name="color_green_00ae8c">#00ae8c</color>
+    <color name="split_line_grey_color_d9d9d9">#D9D9D9</color>
+    <color name="green_4DC0A4">#4DC0A4</color>
+    <color name="gray7">#c5c4c4</color>
+    <color name="GreyWhite">#F7F7F7</color>
+    <color name="color_register_text_normal_1ca086">#1ca086</color>
+    <color name="color_register_text_normal_246b61">#246b61</color>
+    <color name="color_register_text_disable_39b79d">#39b79d</color>
+    <color name="im_list_select_hover">#dbdbdb</color>
+    <color name="color_aaaaaa_content_text">#ffaaaaaa</color>
+    <color name="title_color_01d9ae">#01D9AE</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_green_disable">#a2efe0</color>
+    <color name="color_green_00d3a9">#ff00D3A9</color>
+    <color name="color_red_ccfa3c55">#ccfa3c55</color>
+    <color name="color_black_b3000000">#b3000000</color>
+    <color name="color_white_66ffffff">#66ffffff</color>
+    <color name="color_white_ffffffff">#ffffffff</color>
+    <color name="color_blue_1081ea">#1081ea</color>
+    <color name="color_grey_eaeaea">#eaeaea</color>
+    <color name="color_green_4bbda2">#4bbda2</color>
+    <color name="color_yellow_fcf3cd">#fcf3cd</color>
+
+    <!-- main bg color -->
+    <color name="g_child_page_bg_color">#FFFFFF</color>
+    <color name="list_bg_color">#FFFFFF</color>
+    <color name="main_bg_color">#FFFFFF</color>
+
+    <!-- session -->
+    <color name="color_message_default_bg">#e9ecf0</color>
+    <color name="input_panel_text_color_757572">#757572</color>
+    <color name="color_gray_cbd0d8">#cbd0d8</color>
+    <color name="help_color">#ff999999</color>
+
+    <!-- image picker -->
+    <color name="color_split_line_d9d9d9">#d9d9d9</color>
+    <color name="color_split_line_cccccc">#cccccc</color>
+
+    <!-- contact -->
+    <color name="contact_list_hover">#d9d9d9</color>
+    <color name="contact_letter_idx_bg">#33000000</color>
+    <color name="contacts_letters_color">#80807c</color>
+    <color name="bussiness_card_gridview_bg">#ECF1F5</color>
+    <color name="press_mask">#33000000</color>
+    <color name="color_grey_ababab">#ababab</color>
+    <color name="color_yellow_796413">#796413</color>
+    <color name="color_yellow_b39729">#b39729</color>
+    <color name="color_red_f04c62">#f04c62</color>
+
+    <!-- setting -->
+    <color name="color_black_ff333333">#ff333333</color>
+    <color name="color_black_ff666666">#ff666666</color>
+    <color name="color_black_ff999999">#ff999999</color>
+    <color name="color_gray_bfc2c5">#bfc2c5</color>
+
+    <!-- xuexi-->
+    <color name="py_text_e95413">#e95413</color>
+    
+</resources>

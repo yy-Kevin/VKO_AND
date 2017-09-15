@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.vko.ring.common.widget.xlv.XListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/msglistview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:cacheColorHint="#00000000"
+    android:headerDividersEnabled="true"
+    android:divider="@null"
+    android:listSelector="@color/transparent"
+    android:overScrollMode="never"
+    style="@style/common_bar_style"/>

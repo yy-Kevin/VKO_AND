@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/view_show_grade_top"
+    android:padding="5dp"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+
+    <cn.vko.ring.common.widget.shapeview.CircularImageView
+        android:id="@+id/iv_user_header"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@drawable/icon_default_head" />
+
+    <TextView
+        android:id="@+id/tv_show_grade_title"
+        style="@style/test_text_gray_style"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="集合间的基本关系" />
+
+    <cn.vko.ring.common.widget.TimeLayout
+        android:id="@+id/lay_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+    </cn.vko.ring.common.widget.TimeLayout>
+
+</LinearLayout>

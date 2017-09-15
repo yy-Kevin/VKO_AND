@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/study_bg"
+    android:scrollbars="none" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="10dp" >
+        <RelativeLayout
+            android:id="@+id/top_lay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/study_top_bg"
+            >
+            <ImageView
+                android:id="@+id/iv_ad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:padding="10dp"
+                android:src="@drawable/ad_no_point" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/clound" />
+
+            <ImageView
+                android:id="@+id/custom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:padding="10dp"
+                android:src="@drawable/custom_service"
+                android:visibility="gone"/>
+
+            <ImageView
+                android:id="@+id/t_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/custom"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/tlogo"
+                android:visibility="gone"/>
+
+            <include
+                android:id="@+id/include_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/t_logo"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="@dimen/dimen15"
+                layout="@layout/layout_seacher_view"
+                android:background="@android:color/transparent" />
+
+            <cn.vko.ring.study.widget.FlowLayout
+                android:id="@+id/flow_lay"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/dimen_flow_high"
+                android:layout_alignLeft="@+id/include_edit"
+                android:layout_alignRight="@+id/include_edit"
+                android:layout_below="@+id/include_edit" />
+
+        </RelativeLayout>
+
+        <cn.vko.ring.study.widget.WaveMoveView
+            android:id="@+id/sv_video"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen40"
+            android:background="@color/study_bg"
+            android:layout_below="@+id/top_lay"
+            />
+
+        <!--<cn.vko.ring.common.widget.XGridView
+           android:id="@+id/gv_subject"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:listSelector="#00000000"
+           android:numColumns="5"
+           android:paddingLeft="10dp"
+           android:paddingRight="10dp"
+           android:scrollbars="none"
+           android:stretchMode="columnWidth"
+           android:visibility="gone"
+           android:layout_below="@+id/sv_video"
+           >
+       </cn.vko.ring.common.widget.XGridView>-->
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/sv_video"
+            android:fillViewport="true"
+            >
+            <LinearLayout
+                android:id="@+id/layout_subject"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/study_bg"
+                android:gravity="center"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/error_refresh"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_below="@+id/sv_video"
+            android:gravity="center"
+            android:text="点击刷新"
+            android:textColor="@color/common_light_text_color"
+            android:textSize="16sp"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+</ScrollView>

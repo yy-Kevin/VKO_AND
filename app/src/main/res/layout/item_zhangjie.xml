@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_translucent_bg"
+    android:orientation="vertical" 
+    android:paddingRight="18dp"
+    android:paddingLeft="18dp"
+    android:paddingTop="1.5dp"
+    
+    >
+
+    <LinearLayout
+      
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_zhengjie_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen5"
+            android:layout_marginTop="@dimen/dimen15"
+            android:text="生活环境"
+            android:textColor="@color/common_dark_text_color"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" 
+        android:paddingBottom="5dip"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/dimen5"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <cn.vko.ring.study.widget.RectProgressView
+                android:id="@+id/rect_progress"
+                android:layout_width="70dip"
+                android:layout_height="10dip"
+                android:layout_marginBottom="5dip"
+                android:layout_marginTop="10dip"
+                android:layout_weight="4"
+                android_custom:borderWidth="0.1dp"
+                android_custom:progress="30"
+                android_custom:progressColor="#61C3F5"
+                android_custom:radiuscri="5dp" />
+              
+            <TextView
+                android:id="@+id/tv_progress_length"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginTop="10dip"
+                android:text="100%"
+                android:textColor="#CFCFCF" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dip"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/iv_toplay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dip"
+                android:layout_marginTop="10dip"
+                android:src="@drawable/day_medal_list_play" />
+        </LinearLayout>
+    </RelativeLayout>
+<View
+    android:layout_marginTop="2dp" 
+    android:layout_width="fill_parent"
+    android:layout_height="1px"
+    android:background="@color/common_line_color"></View>
+</LinearLayout>

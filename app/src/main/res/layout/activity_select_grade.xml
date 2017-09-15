@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true" 
+    android:background="@color/bg_main_view"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_view_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_loginbg"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_junione"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingLeft="10dp"
+            android:paddingRight="15dp"
+            android:text="@string/junior_grade_one"
+            android:textColor="@color/login_gray"
+            android:paddingBottom="10dp"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_junitwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/junior_grade_two"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_junithree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:paddingBottom="10dp"
+            android:text="@string/junior_grade_end"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_highone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/high_grade_one"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_hightwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/hige_grade_two"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_highthree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/high_grade_end"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littleone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="15dp"
+            android:paddingTop="10dp"
+            android:text="@string/little_grade_one"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littletwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/little_grade_two"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littlethree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/little_grade_three"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littlefour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/little_grade_four"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littlefive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/little_grade_five"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.3dp"
+            android:background="#33404345" />
+
+        <TextView
+            android:id="@+id/tv_littlesix"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/selector_translucent_bg"
+            android:paddingRight="15dp"
+            android:text="@string/little_grade_six"
+            android:paddingBottom="10dp"
+            android:textColor="@color/login_gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

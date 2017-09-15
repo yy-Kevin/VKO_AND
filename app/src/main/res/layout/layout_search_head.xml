@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="@drawable/selector_back_bg"
+        android:src="@drawable/go_back_header_title" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/shape_search_white_bg"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+        
+       <cn.vko.ring.common.widget.ContainsEmojiEditText
+            android:id="@+id/et_seacher"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" 
+            android:focusable="true" 
+            android:background="@color/white"
+            android:drawableLeft="@drawable/seacher_image"
+            android:drawablePadding="5dp"
+            android:hint="搜索视频或试题"
+            android:imeOptions="actionNone"
+            android:inputType="text"
+            android:textSize="14sp" />
+       
+
+        <ImageView
+            android:id="@+id/iv_seacher_to"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:visibility="gone"
+            android:padding="5dip"
+            android:src="@drawable/study_photo" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:clickable="true"
+        android:text="@string/search_text"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+        
+        
+
+</LinearLayout>

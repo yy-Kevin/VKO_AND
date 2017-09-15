@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#EDF0F3">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="输入激活码"
+        android:textColor="#7BC7EE"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/user_num_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/shape_home_num_pwd"
+        android:padding="8dp" >
+
+        <EditText
+            android:id="@+id/ed_activation_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_loginbg"
+            android:textColor="#CCCCCC"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <TextView 
+        android:id="@+id/tv_activate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="激活"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:background="@drawable/shape_activation"
+        android:padding="8dp"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="激活码使用规则:"
+        android:textColor="#6A6A6A"
+        android:textSize="16sp"
+        android:paddingLeft="15dp"
+        android:layout_marginTop="30dp"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1.激活码需在有效期内使用,超出则无效;\n2.一个激活码一个账号使用,重复着无效;\n3.激活码的一切解释权归微课圈!"
+        android:textColor="#CCCCCC"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        android:textSize="15sp"/>
+
+</LinearLayout>

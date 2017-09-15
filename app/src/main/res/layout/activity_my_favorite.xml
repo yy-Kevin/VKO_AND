@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main_view"
+    android:fitsSystemWindows="true">
+
+    <include 
+        android:id="@+id/head"
+        layout="@layout/layout_view_head" />
+
+    <cn.vko.ring.common.widget.SimpleViewPagerIndicator
+        android:id="@+id/layout_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/head"
+        android:background="#ffffffff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_below="@+id/layout_indicator"></LinearLayout>
+
+    <cn.vko.ring.common.widget.NoScrollViewPager
+        android:id="@id/id_stickynavlayout_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_below="@id/layout_indicator"
+        >
+    </cn.vko.ring.common.widget.NoScrollViewPager>
+    <TextView 
+        android:id="@+id/tv_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="#cccccc"
+        android:textColor="#a9a9a9"
+        android:textSize="20sp"
+        android:text="删除"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

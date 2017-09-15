@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/bg_exam_play"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_view_head" />
+
+    <include
+         layout="@layout/item_grade_top" />
+
+    <LinearLayout
+        android:id="@+id/lay_top_show_grade_title_num"
+        android:layout_width="fill_parent"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_exam_test_show_grade_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+    <TextView 
+        android:gravity="center"
+        android:text="我要纠错"
+        android:textColor="@color/white"
+        android:background="@drawable/sub_selector_green_button"
+        android:id="@+id/tv_submit_error"
+        android:textSize="16sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"/>
+
+</LinearLayout>
