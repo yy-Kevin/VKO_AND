@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\vko_proiect1\VkoCircleS\Speex-master\assets"/><source path="E:\vko_proiect1\VkoCircleS\Speex-master\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\vko_proiect1\VkoCircleS\Speex-master\build-types\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\project\VkoCircleS\Speex-master\assets"/><source path="E:\project\VkoCircleS\Speex-master\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\project\VkoCircleS\Speex-master\build-types\release\assets"/></dataSet></merger>

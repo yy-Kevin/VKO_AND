@@ -109,6 +109,7 @@ public class LoginImPresenter {
 
             @Override
             public void onFailed(int code) {
+                LogUtil.e("Auth", "onFailed  user password error");
                 onLoginDone();
                 if (code == 302 || code == 404) {
                     Toast.makeText(mContext, R.string.login_failed, Toast.LENGTH_SHORT).show();

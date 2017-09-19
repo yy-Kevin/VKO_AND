@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\vko_proiect1\VkoCircleS\pushSDK\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\vko_proiect1\VkoCircleS\pushSDK\build-types\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\project\VkoCircleS\pushSDK\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\project\VkoCircleS\pushSDK\build-types\debug\shaders"/></dataSet></merger>

@@ -8,6 +8,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\res\\layout\\main.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\project\\VkoCircleS\\Speex-master\\res\\layout\\main.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
         "source": "E:\\studio_project\\VkoCircleS\\Speex-master\\res\\layout\\main.xml"
     }

@@ -448,7 +448,9 @@ public class ClassGroupragment extends BaseFragment implements UserTeamView {
 
         if (code == StatusCode.PWD_ERROR) {
             LogUtil.e("Auth", "user password error");
-            Toast.makeText(getActivity(), R.string.login_failed, Toast.LENGTH_SHORT).show();
+            if (getActivity() != null){
+//                Toast.makeText(getActivity(), R.string.login_failed, Toast.LENGTH_SHORT).show();
+            }
         } else {
             LogUtil.i("Auth", "Kicked!");
         }

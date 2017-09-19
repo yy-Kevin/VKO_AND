@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "E:\\project\\VkoCircleS\\Speex-master\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
     },

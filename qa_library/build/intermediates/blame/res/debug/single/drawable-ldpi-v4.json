@@ -10,5 +10,9 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
         "source": "E:\\studio\\VkoCircleS\\qa_library\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "E:\\project\\VkoCircleS\\qa_library\\res\\drawable-ldpi\\icon.png"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\menu\\contacts_search_menu.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\menu\\contacts_search_menu.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\menu\\contacts_search_menu.xml"
     },

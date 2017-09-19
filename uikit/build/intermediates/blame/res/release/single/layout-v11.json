@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_screen_content_include.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
     },

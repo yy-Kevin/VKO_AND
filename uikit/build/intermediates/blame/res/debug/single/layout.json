@@ -4,36 +4,16 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -48,16 +28,8 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_actions_layout.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
@@ -68,36 +40,40 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_crop_image_activity.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\tab_layout_main.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\image_layout_multi_touch.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contacts.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
@@ -112,12 +88,12 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_actions_item_layout.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_black_layout.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_notification.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_notification.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_listview.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
@@ -144,16 +120,12 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
@@ -164,8 +136,8 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -178,10 +150,6 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\tab_layout_main.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -208,48 +176,20 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_video.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_video.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_fragment.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_time_text_view_layout.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
@@ -260,76 +200,52 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_abc_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_fragment.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\image_layout_multi_touch.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_images_fragment.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_images_fragment.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contacts.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_text_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_new_message_tip_layout.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_name_activity.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_name_activity.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_new_message_tip_layout.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -340,32 +256,28 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_custom_view.xml"
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_images_fragment.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_images_fragment.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_custom_view.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -376,8 +288,8 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_actions_item_layout.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_layout.xml",
@@ -386,10 +298,6 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_vertical.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
@@ -404,24 +312,16 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contacts.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_default_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
@@ -432,16 +332,20 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_capture_video_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
@@ -452,20 +356,12 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_time_text_view_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_name_activity.xml",
@@ -480,8 +376,8 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_user_profile_toggle_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
@@ -490,10 +386,6 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
@@ -508,20 +400,8 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_images_fragment.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_folder_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
@@ -536,28 +416,8 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_video_activity.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_video_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_item.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_listview_refresh.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
@@ -576,20 +436,8 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_layout.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_layout.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_user_profile_toggle_item.xml",
@@ -600,6 +448,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_text.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_text.xml"
     },
@@ -608,12 +460,860 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_custom_view.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_name_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_name_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_listview.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_abc_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photofolder_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photofolder_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_fragment.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_actions_item_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\tab_layout_main.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_video_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_default_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_count_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_name_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_camera_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_text_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contacts.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_text.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_text.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_black_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_location.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_location.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_video.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_video.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_fragment.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_new_message_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_text_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_custom_view.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_count_item.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_capture_video_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contacts.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_video_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select_item.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_listview_refresh.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
@@ -644,6 +1344,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_item.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
@@ -652,16 +1356,8 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
@@ -676,14 +1372,6 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -692,28 +1380,20 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_listview_refresh.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_images_fragment.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_images_fragment.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_count_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_pick_image_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_crop_image_activity.xml",
@@ -732,16 +1412,12 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_name_layout.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
@@ -764,10 +1440,6 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
-    },
-    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_user_profile_toggle_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_user_profile_toggle_item.xml"
     },
@@ -776,32 +1448,20 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contacts.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\fragment_course.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\image_layout_multi_touch.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_pick_image_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_loading_frame.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_activity.xml",
@@ -812,64 +1472,36 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_listview.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_capture_video_activity.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_video.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_video.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_abc_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photofolder_item.xml",
@@ -880,12 +1512,8 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_notification.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts.xml",
@@ -900,16 +1528,12 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_notification.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_notification.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_notification.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_notification.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -924,10 +1548,6 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_activity.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_item.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -936,92 +1556,48 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_crop_image_activity.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_actions_item_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\tab_layout_main.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_user_profile_toggle_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_user_profile_toggle_item.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_folder_activity.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contact_loading_frame.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_select.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_location.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_location.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_black_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\image_layout_multi_touch.xml",
@@ -1032,16 +1608,12 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_picture.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -1052,24 +1624,36 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_text_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_crop_image_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_crop_image_activity.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_camera_activity.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
@@ -1088,14 +1672,6 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_location.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_location.xml"
     },
@@ -1108,16 +1684,8 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
@@ -1128,8 +1696,8 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
@@ -1140,36 +1708,20 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_emoji_layout.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_contact_loading_frame.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_team_member_item.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_name_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_team_message_activity.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
@@ -1184,20 +1736,8 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_picker_album_activity.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_name_layout.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_text.xml",
@@ -1208,56 +1748,20 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_popup_menu_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_unknown.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_default_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_loading_frame.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_count_item.xml"
-    },
-    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_message_item_audio.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
@@ -1276,32 +1780,20 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\fragment_test.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_time_text_view_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_contacts_abc_item.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_watch_video_activity.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_listview_refresh.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_camera_activity.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -1312,24 +1804,8 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_contact_text_item.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
@@ -1340,31 +1816,11 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     }
 ]

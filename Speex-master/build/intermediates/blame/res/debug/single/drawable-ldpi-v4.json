@@ -4,6 +4,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\Speex-master\\res\\drawable-ldpi\\icon.png"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "E:\\project\\VkoCircleS\\Speex-master\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
         "source": "E:\\studio\\VkoCircleS\\Speex-master\\res\\drawable-ldpi\\icon.png"
     },

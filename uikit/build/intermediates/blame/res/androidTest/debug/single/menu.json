@@ -4,6 +4,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\bundles\\debug\\res\\menu\\contacts_search_menu.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\contacts_search_menu.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\bundles\\debug\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\contacts_search_menu.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\bundles\\debug\\res\\menu\\contacts_search_menu.xml"
     },

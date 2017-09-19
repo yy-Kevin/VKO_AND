@@ -8,6 +8,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\Speex-master\\res\\drawable-mdpi\\icon.png"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\project\\VkoCircleS\\Speex-master\\res\\drawable-mdpi\\icon.png"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\Speex-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
         "source": "E:\\studio\\VkoCircleS\\Speex-master\\res\\drawable-mdpi\\icon.png"
     }

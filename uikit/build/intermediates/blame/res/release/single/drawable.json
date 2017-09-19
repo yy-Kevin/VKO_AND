@@ -1,11 +1,23 @@
 [
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_audio_animation_list_left.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_right_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_audio_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_video_selector.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
@@ -30,6 +42,10 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
@@ -60,12 +76,16 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_photo_selector.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_picker_preview_btn_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
@@ -78,6 +98,10 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_round_bg.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
@@ -104,6 +128,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_view_pager_indicator_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
     },
@@ -128,8 +156,16 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_add_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_add_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
@@ -138,6 +174,10 @@
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_play_btn_select.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_audio_animation_list_right.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
@@ -156,6 +196,18 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_unread_news_icon_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -168,12 +220,24 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_team_member_add_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_view_bottom.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
@@ -204,6 +268,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_team_create_btn_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_cameras_selector.xml"
     },
@@ -216,44 +284,80 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_audio_animation_list_right.xml"
     },
     {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_contact_list_item_selecter.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_contact_list_item_selecter.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_location_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_easy_edit_text_dialog_bg.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_view_bottom.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_bar_foreground.xml"
     },
     {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_view_bottom.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -272,12 +376,16 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_cancel_record_red_bg.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\background_tab.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
@@ -304,20 +412,24 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_round_bg.xml"
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_round_bg.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_round_bg.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_blue_edit_text_bg.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
@@ -344,8 +456,16 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_contact_list_item_selecter.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_cameras_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
@@ -358,6 +478,10 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
@@ -376,6 +500,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_left_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_bar_background.xml"
     },
@@ -392,12 +520,20 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_video_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_team_member_add_selector.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
@@ -420,8 +556,16 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_bar_foreground.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
@@ -434,6 +578,10 @@
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
@@ -456,6 +604,10 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_message_view_bottom.xml"
     },
@@ -474,6 +626,14 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
@@ -500,6 +660,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_red_round_button_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_small_white.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\indicator_bg_bottom.xml"
     },
@@ -510,6 +674,10 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_emoji_item_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
@@ -524,12 +692,28 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_portrait_mask_round.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_location_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_photo_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_plus_photo_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
@@ -542,6 +726,10 @@
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_align_bottom_green_btn_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_align_bottom_green_btn_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
@@ -572,6 +760,10 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_contact_list_item_selecter.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_semitransparency_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_semitransparency_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
     },
@@ -586,6 +778,18 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_gray_edit_text_bg.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
@@ -620,6 +824,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_list_item_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_item_right_selector.xml"
     },
@@ -632,12 +840,20 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_view_bottom.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_contact_list_item_selecter.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
@@ -664,6 +880,10 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_picker_preview_btn_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
     },
@@ -678,6 +898,10 @@
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_play_btn_select.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
@@ -700,6 +924,10 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_team_create_btn_selector.xml"
     },
@@ -714,6 +942,14 @@
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
@@ -744,8 +980,20 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_team_member_delete_selector.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
@@ -760,6 +1008,10 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_list_item_selector.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
     },
@@ -772,6 +1024,14 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\drawable\\nim_team_create_btn_selector.xml"
     },
@@ -780,8 +1040,16 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_progress_small_white.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_square.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\drawable\\nim_portrait_mask_square.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",

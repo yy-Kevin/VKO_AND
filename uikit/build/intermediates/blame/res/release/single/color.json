@@ -1,27 +1,11 @@
 [
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_bg_color.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_bg_color.xml"
-    },
-    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_global_bg_color.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_global_bg_color.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_underline_color.xml",
@@ -36,36 +20,12 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_picker_preview_selector.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\color_picker_preview_selector.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_page_tab_underline_color.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
@@ -80,6 +40,10 @@
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_global_bg_color.xml",
         "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\skin_global_bg_color.xml"
     },
@@ -92,18 +56,6 @@
         "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -112,40 +64,24 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\color\\color_picker_preview_selector.xml"
     },
     {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_green_text_view_selector.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\color_green_text_view_selector.xml"
     },
     {
-        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_global_bg_color.xml",
-        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\color\\skin_global_bg_color.xml"
-    },
-    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_bg_color.xml",
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_bg_color.xml"
-    },
-    {
-        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_underline_color.xml",
-        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_underline_color.xml"
-    },
-    {
-        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
-        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\skin_page_tab_underline_color.xml"
     },
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
@@ -154,6 +90,10 @@
     {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_picker_preview_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\color_picker_preview_selector.xml"
     },
     {
         "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_green_text_view_selector.xml",
@@ -168,6 +108,14 @@
         "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_underline_color.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_bg_color.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_bg_color.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -176,7 +124,119 @@
         "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\color_picker_preview_selector.xml"
     },
     {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_underline_color.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_underline_color.xml"
+    },
+    {
         "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_bg_color.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_bg_color.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_global_bg_color.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\skin_global_bg_color.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_picker_preview_selector.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\color_picker_preview_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\skin_page_tab_underline_color.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_page_tab_underline_color.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\color_green_text_view_selector.xml",
+        "source": "E:\\project\\VkoCircleS\\uikit\\res\\color\\color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\A\\.android\\build-cache\\7d51d7399572b7be74a645a2ac55b44d4be83fdc\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\studio_project\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_global_bg_color.xml",
+        "source": "E:\\studio_project\\VkoCircleS\\uikit\\res\\color\\skin_global_bg_color.xml"
+    },
+    {
+        "merged": "E:\\vko_proiect1\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_light_actionbar_underline_color.xml",
+        "source": "E:\\vko_proiect1\\VkoCircleS\\uikit\\res\\color\\skin_light_actionbar_underline_color.xml"
+    },
+    {
+        "merged": "E:\\studio\\VkoCircleS\\uikit\\build\\intermediates\\res\\merged\\release\\color\\skin_page_tab_underline_color.xml",
+        "source": "E:\\studio\\VkoCircleS\\uikit\\res\\color\\skin_page_tab_underline_color.xml"
     }
 ]

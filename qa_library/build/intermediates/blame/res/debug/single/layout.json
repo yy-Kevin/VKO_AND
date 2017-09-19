@@ -10,5 +10,9 @@
     {
         "merged": "E:\\studio_project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
         "source": "E:\\studio_project\\VkoCircleS\\qa_library\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\project\\VkoCircleS\\qa_library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\project\\VkoCircleS\\qa_library\\res\\layout\\activity_capture.xml"
     }
 ]
